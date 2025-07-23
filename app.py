@@ -16,7 +16,7 @@ def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
 
-background_image_path = "app_net.png"
+background_image_path = "./app_net.png"
 
 try:
     background_image = get_base64_image(background_image_path)
@@ -319,7 +319,7 @@ st.sidebar.header("Network Files")
 # --- Directory input in sidebar ---
 st.sidebar.header("Network Files")
 
-default_network_dir = r"C:\Users\jafar\network_app_demo\network_snapshots"
+default_network_dir = "./network_snapshots" 
 network_dir = st.sidebar.text_input(
     "Enter directory containing node/edge JSON files:",
     value=default_network_dir,
