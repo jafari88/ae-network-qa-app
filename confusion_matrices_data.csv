@@ -1,0 +1,25 @@
+Actual,Predicted,Count,Percentage,Model
+Survived,Survived,312,20.025673940949936,LogisticRegression
+Survived,Died,191,12.25930680359435,LogisticRegression
+Died,Survived,152,9.75609756097561,LogisticRegression
+Died,Died,903,57.958921694480104,LogisticRegression
+Survived,Survived,234,15.019255455712452,RandomForest
+Survived,Died,269,17.265725288831835,RandomForest
+Died,Survived,93,5.969191270860077,RandomForest
+Died,Died,962,61.745827984595635,RandomForest
+Survived,Survived,261,16.752246469833118,XGBoost
+Survived,Died,242,15.532734274711169,XGBoost
+Died,Survived,133,8.536585365853659,XGBoost
+Died,Died,922,59.178433889602054,XGBoost
+Survived,Survived,261,16.752246469833118,LightGBM
+Survived,Died,242,15.532734274711169,LightGBM
+Died,Survived,143,9.178433889602054,LightGBM
+Died,Died,912,58.536585365853654,LightGBM
+Survived,Survived,341,21.88703465982028,SVM
+Survived,Died,162,10.397946084724005,SVM
+Died,Survived,202,12.965340179717586,SVM
+Died,Died,853,54.74967907573812,SVM
+Survived,Survived,230,14.762516046213095,Artificial Neural Network
+Survived,Died,273,17.522464698331195,Artificial Neural Network
+Died,Survived,88,5.648267008985879,Artificial Neural Network
+Died,Died,967,62.06675224646984,Artificial Neural Network
