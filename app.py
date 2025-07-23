@@ -16,7 +16,7 @@ def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
 
-background_image_path = "./app_net.png"
+background_image_path = "app_net.png"
 
 try:
     background_image = get_base64_image(background_image_path)
@@ -315,110 +315,192 @@ def process_single_query(question, G, nodes, edges):
 # --- MAIN APP ---
 st.title("Adverse Event Network Browser")
 
+st.sidebar.title("🔍 Network Analysis App")
+
+# Add file upload feature
+st.sidebar.subheader("📁 Upload Network Files")
+uploaded_files = st.sidebar.file_uploader(
+    "Upload your network JSON files:",
+    type=['json'],
+    accept_multiple_files=True,
+    help="Upload multiple JSON files (nodes and edges files)"
+)
+
+# Process uploaded files
+uploaded_networks = {}
+uploaded_nodes_data = {}
+uploaded_edges_data = {}
+
+if uploaded_files:
+    st.sidebar.success(f"✅ Uploaded {len(uploaded_files)} files")
+    
+    # Group files by snapshot number
+    node_files = [f for f in uploaded_files if f.name.endswith('_nodes.json')]
+    edge_files = [f for f in uploaded_files if f.name.endswith('_edges.json')]
+    
+    for node_file in node_files:
+        try:
+            # Extract snapshot number from filename
+            snapshot_num = int(node_file.name.split('_')[2])
+            
+            # Find corresponding edge file
+            edge_file = None
+            for ef in edge_files:
+                if ef.name == f"network_changepoint_{snapshot_num}_edges.json":
+                    edge_file = ef
+                    break
+            
+            if edge_file:
+                # Load data
+                nodes_data = json.load(node_file)
+                edges_data = json.load(edge_file)
+                
+                # Create network
+                G = nx.Graph()
+                for node in nodes_data:
+                    G.add_node(node['AE'], **{k: v for k, v in node.items() if k != 'AE'})
+                for edge in edges_data:
+                    G.add_edge(edge['AE1'], edge['AE2'], **{k: v for k, v in edge.items() if k not in ['AE1', 'AE2']})
+                
+                uploaded_networks[snapshot_num] = G
+                uploaded_nodes_data[snapshot_num] = nodes_data
+                uploaded_edges_data[snapshot_num] = edges_data
+                
+        except Exception as e:
+            st.sidebar.error(f"Error processing {node_file.name}: {e}")
+
+
 st.sidebar.header("Network Files")
 # --- Directory input in sidebar ---
 st.sidebar.header("Network Files")
 
-default_network_dir = "./network_snapshots" 
+default_network_dir = r"C:\Users\jafar\grok_updated_network14jul_pe05_001Pdecay_flt_fe20_w14\network_snapshots"
 network_dir = st.sidebar.text_input(
     "Enter directory containing node/edge JSON files:",
     value=default_network_dir,
     help="Browse to the folder where your network_changepoint_X_nodes.json and network_changepoint_X_edges.json files are located."
 )
 
-# Validate directory
-if not os.path.isdir(network_dir):
-    st.sidebar.error(f"Directory not found: {network_dir}")
-    st.stop()
-
-if os.path.exists(network_dir):
-    files = os.listdir(network_dir)
-    node_files = [f for f in files if f.endswith('_nodes.json')]
-    edge_files = [f for f in files if f.endswith('_edges.json')]
-    snapshot_numbers = []
-    for node_file in node_files:
-        try:
-            snapshot_num = int(node_file.split('_')[2])
-            snapshot_numbers.append(snapshot_num)
-        except:
-            continue
-    snapshot_numbers = sorted(snapshot_numbers)
-    if snapshot_numbers:
-        st.sidebar.subheader("📁 Available Snapshots")
-        selected_snapshots = st.sidebar.multiselect(
-            "Select snapshots to analyze:",
-            snapshot_numbers,
-            default=snapshot_numbers,
-            help="Choose which snapshots to analyze (select multiple for comparison)"
-        )
-        all_networks = {}
-        all_nodes_data = {}
-        all_edges_data = {}
-        for snapshot in selected_snapshots:
-            node_path = os.path.join(network_dir, f"network_changepoint_{snapshot}_nodes.json")
-            edge_path = os.path.join(network_dir, f"network_changepoint_{snapshot}_edges.json")
-            if os.path.exists(node_path) and os.path.exists(edge_path):
-                try:
-                    with open(node_path, 'r') as f:
-                        nodes_data = json.load(f)
-                    with open(edge_path, 'r') as f:
-                        edges_data = json.load(f)
-                    G = nx.Graph()
-                    for node in nodes_data:
-                        G.add_node(node['AE'], **{k: v for k, v in node.items() if k != 'AE'})
-                    for edge in edges_data:
-                        G.add_edge(edge['AE1'], edge['AE2'], **{k: v for k, v in edge.items() if k not in ['AE1', 'AE2']})
-                    all_networks[snapshot] = G
-                    all_nodes_data[snapshot] = nodes_data
-                    all_edges_data[snapshot] = edges_data
-                except Exception as e:
-                    st.sidebar.error(f"Error loading snapshot {snapshot}: {e}")
-        if all_networks:
-            st.sidebar.success(f"✅ Loaded {len(all_networks)} snapshots")
-            st.header("📊 Network Summary (All Snapshots)")
-            summary_data = []
-            for snapshot, G in all_networks.items():
-                summary_data.append({
-                    'Snapshot': snapshot,
-                    'Nodes': G.number_of_nodes(),
-                    'Edges': G.number_of_edges(),
-                    'Avg Degree': f"{sum(dict(G.degree()).values()) / G.number_of_nodes():.2f}"
-                })
-            st.dataframe(pd.DataFrame(summary_data), use_container_width=True)
-            st.header("Ask Questions About Your Networks")
-            st.markdown("""
-            **Example questions:**
-            - `node DIARRHOEA features`
-            - `node DIARRHOEA degree`
-            - `node DIARRHOEA degree_centrality`
-            - `node DIARRHOEA betweenness_centrality`
-            - `compare degree`
-            - `compare degree_centrality`
-            - `compare betweenness_centrality`
-            - `top 10 weight`
-            - `top 5 degree`
-            - `top 5 centrality`
-            - `neighbors of DIARRHOEA`
-            - `neighbors of DIARRHOEA top 20 weight`
-            - `list nodes`
-            - `list edges`
-            - `summary`
-            - `debug nodes`
-            """)
-            question = st.text_input("Enter your question:", placeholder="e.g., node DIARRHOEA features")
-            if question:
-                for snapshot, G in all_networks.items():
-                    st.subheader(f" Snapshot {snapshot} Results")
-                    answer, answer_df = process_single_query(question, G, all_nodes_data[snapshot], all_edges_data[snapshot])
-                    if answer:
-                        st.markdown("**Answer:**")
-                        st.markdown(answer)
-                    if answer_df is not None:
-                        st.dataframe(answer_df, use_container_width=True)
-                    st.markdown("---")
-        else:
-            st.error("No snapshots could be loaded successfully.")
-    else:
-        st.warning("No snapshot files found")
+# Determine which data source to use (uploaded files take priority)
+if uploaded_networks:
+    # Use uploaded files
+    all_networks = uploaded_networks
+    all_nodes_data = uploaded_nodes_data
+    all_edges_data = uploaded_edges_data
+    st.sidebar.success(f"✅ Using {len(uploaded_networks)} uploaded snapshots")
+    
+    # Show snapshot selection for uploaded files
+    uploaded_snapshots = sorted(uploaded_networks.keys())
+    selected_snapshots = st.sidebar.multiselect(
+        "Select snapshots to analyze:",
+        uploaded_snapshots,
+        default=uploaded_snapshots,
+        help="Choose which uploaded snapshots to analyze"
+    )
+    
+    # Filter to selected snapshots
+    all_networks = {k: v for k, v in all_networks.items() if k in selected_snapshots}
+    all_nodes_data = {k: v for k, v in all_nodes_data.items() if k in selected_snapshots}
+    all_edges_data = {k: v for k, v in all_edges_data.items() if k in selected_snapshots}
+    
 else:
-    st.info("Please ensure the network directory exists and contains snapshot files.")
+    # Use directory files
+    if not os.path.isdir(network_dir):
+        st.sidebar.error(f"Directory not found: {network_dir}")
+        st.stop()
+
+    if os.path.exists(network_dir):
+        files = os.listdir(network_dir)
+        node_files = [f for f in files if f.endswith('_nodes.json')]
+        edge_files = [f for f in files if f.endswith('_edges.json')]
+        snapshot_numbers = []
+        for node_file in node_files:
+            try:
+                snapshot_num = int(node_file.split('_')[2])
+                snapshot_numbers.append(snapshot_num)
+            except:
+                continue
+        snapshot_numbers = sorted(snapshot_numbers)
+        if snapshot_numbers:
+            st.sidebar.subheader("📁 Available Snapshots")
+            selected_snapshots = st.sidebar.multiselect(
+                "Select snapshots to analyze:",
+                snapshot_numbers,
+                default=snapshot_numbers,
+                help="Choose which snapshots to analyze (select multiple for comparison)"
+            )
+            all_networks = {}
+            all_nodes_data = {}
+            all_edges_data = {}
+            for snapshot in selected_snapshots:
+                node_path = os.path.join(network_dir, f"network_changepoint_{snapshot}_nodes.json")
+                edge_path = os.path.join(network_dir, f"network_changepoint_{snapshot}_edges.json")
+                if os.path.exists(node_path) and os.path.exists(edge_path):
+                    try:
+                        with open(node_path, 'r') as f:
+                            nodes_data = json.load(f)
+                        with open(edge_path, 'r') as f:
+                            edges_data = json.load(f)
+                        G = nx.Graph()
+                        for node in nodes_data:
+                            G.add_node(node['AE'], **{k: v for k, v in node.items() if k != 'AE'})
+                        for edge in edges_data:
+                            G.add_edge(edge['AE1'], edge['AE2'], **{k: v for k, v in edge.items() if k not in ['AE1', 'AE2']})
+                        all_networks[snapshot] = G
+                        all_nodes_data[snapshot] = nodes_data
+                        all_edges_data[snapshot] = edges_data
+                    except Exception as e:
+                        st.sidebar.error(f"Error loading snapshot {snapshot}: {e}")
+        else:
+            st.warning("No snapshot files found")
+            st.stop()
+    else:
+        st.info("Please upload files or ensure the network directory exists and contains snapshot files.")
+        st.stop()
+
+# Display results if we have networks loaded
+if all_networks:
+    st.sidebar.success(f"✅ Loaded {len(all_networks)} snapshots")
+    st.header("📊 Network Summary (All Snapshots)")
+    summary_data = []
+    for snapshot, G in all_networks.items():
+        summary_data.append({
+            'Snapshot': snapshot,
+            'Nodes': G.number_of_nodes(),
+            'Edges': G.number_of_edges(),
+            'Avg Degree': f"{sum(dict(G.degree()).values()) / G.number_of_nodes():.2f}"
+        })
+    st.dataframe(pd.DataFrame(summary_data), use_container_width=True)
+    st.header("Ask Questions About Your Networks")
+    st.markdown("""
+    **Example questions:**
+    - `node DIARRHOEA features`
+    - `node DIARRHOEA degree`
+    - `node DIARRHOEA degree_centrality`
+    - `node DIARRHOEA betweenness_centrality`
+    - `compare degree`
+    - `compare degree_centrality`
+    - `compare betweenness_centrality`
+    - `top 10 weight`
+    - `top 5 degree`
+    - `top 5 centrality`
+    - `neighbors of DIARRHOEA`
+    - `neighbors of DIARRHOEA top 20 weight`
+    - `list nodes`
+    - `list edges`
+    - `summary`
+    - `debug nodes`
+    """)
+    question = st.text_input("Enter your question:", placeholder="e.g., node DIARRHOEA features")
+    if question:
+        for snapshot, G in all_networks.items():
+            st.subheader(f" Snapshot {snapshot} Results")
+            answer, answer_df = process_single_query(question, G, all_nodes_data[snapshot], all_edges_data[snapshot])
+            if answer:
+                st.markdown("**Answer:**")
+                st.markdown(answer)
+            if answer_df is not None:
+                st.dataframe(answer_df, use_container_width=True)
+            st.markdown("---")
+else:
+    st.error("No snapshots could be loaded successfully.")
