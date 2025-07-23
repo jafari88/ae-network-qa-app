@@ -58,4 +58,5 @@ results/
 
 # Environment variables
 .env
-.env.local 
+.env.local "# Allow network snapshot JSON files"  
+"!network_snapshots/*.json" 

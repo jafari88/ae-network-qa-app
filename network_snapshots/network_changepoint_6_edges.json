@@ -1,0 +1,9737 @@
+[
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "RASH",
+    "weight": 15.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "DERMATITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "GANGRENE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ANAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ANOREXIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "BACK PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "BRONCHITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "CONJUNCTIVITIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "DRY SKIN",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "NAIL DISORDER",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "SKIN FISSURES",
+    "weight": 30.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ACNE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "DYSGEUSIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ECZEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "NECK PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "PARONYCHIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "POLYNEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "STOMATITIS",
+    "weight": 34.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 21.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "LEUKOPENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "NEUTROPENIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "DYSPNOEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "HYPOTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "PRURITUS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ABDOMINAL PAIN",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "BURNING SENSATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "DIARRHOEA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "FATIGUE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "FLATULENCE",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "NAUSEA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 24.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "POLLAKIURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "AFFECT LABILITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ARTHRALGIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "ASTHENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "CONSTIPATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "DYSURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "EYE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "HYPERTENSION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ERYTHEMA",
+    "AE2": "PYREXIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DERMATITIS ACNEIFORM",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "SKIN FISSURES",
+    "weight": 70.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "FOLLICULITIS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ANAEMIA",
+    "weight": 19.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ANOREXIA",
+    "weight": 14.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "BACK PAIN",
+    "weight": 11.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "BRONCHITIS",
+    "weight": 9.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "CONJUNCTIVITIS",
+    "weight": 28.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DRY SKIN",
+    "weight": 36.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "NAIL DISORDER",
+    "weight": 12.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DYSPHONIA",
+    "weight": 19.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "OROPHARYNGEAL PAIN",
+    "weight": 19.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "STOMATITIS",
+    "weight": 58.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ASTHENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "GENITAL RASH",
+    "weight": 43.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 11.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "NASOPHARYNGITIS",
+    "weight": 23.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "FATIGUE",
+    "weight": 29.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "HYPOTENSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "SOFT TISSUE INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DIARRHOEA",
+    "weight": 25.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "NEUTROPENIA",
+    "weight": 14.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "HYPOALBUMINAEMIA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 34.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DERMATITIS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ORAL PAIN",
+    "weight": 11.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ABDOMINAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ANXIETY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DYSPNOEA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "GASTROENTERITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "INSOMNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "NAUSEA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "NEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "VISION BLURRED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "AMNESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "CONSTIPATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "HEADACHE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "PHOTOSENSITIVITY REACTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "SINUSITIS",
+    "weight": 14.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 14.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "INFLUENZA",
+    "weight": 16.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "CELLULITIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "PYREXIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "SEPSIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "SUNBURN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "weight": 8.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "INJECTION SITE REACTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DYSGEUSIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "MALAISE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ALBUMIN URINE PRESENT",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "HYPERTENSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "HAEMORRHOIDAL HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 6.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "CHILLS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "COUGH",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "NOCTURIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "PRURITUS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "TOOTHACHE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RASH",
+    "AE2": "VOMITING",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "SKIN FISSURES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "ACNE",
+    "weight": 14.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "BACK PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "DEHYDRATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "DIARRHOEA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "PYREXIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "RECTAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "DERMAL CYST",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DERMATITIS ACNEIFORM",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "DRY SKIN",
+    "weight": 52.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "FOLLICULITIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "PRURITUS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "ANAEMIA",
+    "weight": 21.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "ANOREXIA",
+    "weight": 21.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "BACK PAIN",
+    "weight": 16.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "BRONCHITIS",
+    "weight": 16.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "CONJUNCTIVITIS",
+    "weight": 40.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "NAIL DISORDER",
+    "weight": 21.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "ACNE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "DYSGEUSIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "ECZEMA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "NECK PAIN",
+    "weight": 9.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 25.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "PARONYCHIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "POLYNEUROPATHY",
+    "weight": 9.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 9.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "STOMATITIS",
+    "weight": 48.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "DIARRHOEA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "DEPRESSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "NASOPHARYNGITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "RECTAL DISCHARGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "SINUS HEADACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "SKIN IRRITATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "INJECTION SITE REACTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SKIN FISSURES",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "ANAEMIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "ANOREXIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "BACK PAIN",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "BRONCHITIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "CONJUNCTIVITIS",
+    "weight": 16.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "NAIL DISORDER",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "DIARRHOEA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DRY SKIN",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "FOLLICULITIS",
+    "AE2": "PRURITUS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "ARTHRALGIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "PARAESTHESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "DYSPNOEA",
+    "weight": 23.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "HYPOTENSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "ACNE",
+    "weight": 42.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "DIARRHOEA",
+    "weight": 24.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "EXFOLIATIVE RASH",
+    "weight": 79.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "EYE INFECTION",
+    "weight": 21.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "FATIGUE",
+    "weight": 24.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "FUNGAL SKIN INFECTION",
+    "weight": 16.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 16.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "NAIL DISORDER",
+    "weight": 32.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "ANAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "ANOREXIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "ASTHENIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 12.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "MYALGIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "NAUSEA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "VOMITING",
+    "weight": 16.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "BACK PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "FLUSHING",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "HYDRONEPHROSIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "HYPERTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "NOCTURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "NECK PAIN",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 10.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "COUGH",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "NEUTROPENIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "PYREXIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PRURITUS",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "DYSGEUSIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "ECZEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "NECK PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "PARONYCHIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "POLYNEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "STOMATITIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "DIARRHOEA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "DYSPNOEA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "EXFOLIATIVE RASH",
+    "weight": 30.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "EYE INFECTION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "FATIGUE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "FUNGAL SKIN INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ACNE",
+    "AE2": "NAIL DISORDER",
+    "weight": 12.0
+  },
+  {
+    "AE1": "DERMATITIS",
+    "AE2": "GANGRENE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DERMATITIS",
+    "AE2": "ECZEMA ASTEATOTIC",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DERMATITIS",
+    "AE2": "POSTOPERATIVE WOUND INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DERMATITIS",
+    "AE2": "STAPHYLOCOCCAL INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DERMATITIS",
+    "AE2": "DIARRHOEA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "DERMATITIS",
+    "AE2": "FATIGUE",
+    "weight": 12.0
+  },
+  {
+    "AE1": "DERMATITIS",
+    "AE2": "ORAL PAIN",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "ANOREXIA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "BACK PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "BRONCHITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "CONJUNCTIVITIS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "NAIL DISORDER",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HYPERBILIRUBINAEMIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 17.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "NEUTROPENIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "DIZZINESS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HYPOACUSIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "SINUS CONGESTION",
+    "weight": 15.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "SKIN ULCER",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "CONSTIPATION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "COUGH",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "DYSPEPSIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "FATIGUE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HAEMOPTYSIS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HEADACHE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 45.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "DYSGEUSIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HYPERGLYCAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HYPERTENSION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "NAUSEA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "PANCREATITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "PAROSMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "RASH PRURITIC",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "BLOOD ALBUMIN DECREASED",
+    "weight": 13.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "BLOOD URIC ACID INCREASED",
+    "weight": 13.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "TOOTH ABSCESS",
+    "weight": 18.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "PROTEINURIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "EPISTAXIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HERPES SIMPLEX",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "NEUROPATHY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "ASTHENIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "DIARRHOEA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "MYALGIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "VOMITING",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "HYPOGLYCAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "MENTAL STATUS CHANGES",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANAEMIA",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "BACK PAIN",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "BRONCHITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "CONJUNCTIVITIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "NAIL DISORDER",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "ABDOMINAL PAIN",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "ALOPECIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "CONSTIPATION",
+    "weight": 17.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DIARRHOEA",
+    "weight": 25.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DIZZINESS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DYSGEUSIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DYSPEPSIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DYSPNOEA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "FATIGUE",
+    "weight": 28.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "NECK PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "NEUTROPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "ORAL HERPES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "ORAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "STOMATITIS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "VISION BLURRED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "SKIN DISORDER",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DEHYDRATION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DISORIENTATION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "GASTROINTESTINAL HAEMORRHAGE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "HYPERTENSION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "BLOOD ALBUMIN DECREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "BLOOD CALCIUM INCREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "HYPERCALCAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 11.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DEPRESSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "INSOMNIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "SKIN ULCER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "NAUSEA",
+    "weight": 22.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "VOMITING",
+    "weight": 24.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "ASTHENIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 15.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "MYALGIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "DRUG TOXICITY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "FALL",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ANOREXIA",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "BRONCHITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "CONJUNCTIVITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "NAIL DISORDER",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "ABDOMINAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "ALOPECIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "CONSTIPATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "DIARRHOEA",
+    "weight": 24.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "DIZZINESS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "DYSGEUSIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "DYSPEPSIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "DYSPNOEA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "FATIGUE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "NECK PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "NEUTROPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "ORAL HERPES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "ORAL PAIN",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "STOMATITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "VISION BLURRED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "DEHYDRATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "PYREXIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "RECTAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "ANXIETY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "GASTROENTERITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "INSOMNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "NAUSEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "NEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "EPISTAXIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "INFLUENZA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "PROTEINURIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "FLUSHING",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "HYDRONEPHROSIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "HYPERTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "NOCTURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "FLATULENCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BACK PAIN",
+    "AE2": "SKIN ULCER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BRONCHITIS",
+    "AE2": "CONJUNCTIVITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BRONCHITIS",
+    "AE2": "NAIL DISORDER",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "NAIL DISORDER",
+    "weight": 7.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "BONE PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "FATIGUE",
+    "weight": 7.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "HYPERTENSION",
+    "weight": 16.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "NEUTROPENIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 14.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "DEPRESSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "NASOPHARYNGITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "RECTAL DISCHARGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "SINUS HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "SKIN IRRITATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "AFFECT LABILITY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "ARTHRALGIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "ASTHENIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "CHILLS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "CONSTIPATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "DYSURIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "EYE PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONJUNCTIVITIS",
+    "AE2": "PYREXIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "ABDOMINAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "ALOPECIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "CONSTIPATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "DIARRHOEA",
+    "weight": 13.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "DIZZINESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "DYSGEUSIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "DYSPEPSIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "DYSPNOEA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "FATIGUE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "NECK PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "NEUTROPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "ORAL HERPES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "ORAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "STOMATITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "VISION BLURRED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "CELLULITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "EPISTAXIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "NASAL CONGESTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 8.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "PULMONARY HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "PURULENT DISCHARGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "EXFOLIATIVE RASH",
+    "weight": 22.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "EYE INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "FUNGAL SKIN INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAIL DISORDER",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "ECZEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "NECK PAIN",
+    "weight": 12.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "PARONYCHIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "POLYNEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "STOMATITIS",
+    "weight": 17.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "ABDOMINAL PAIN",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "ALOPECIA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "CONSTIPATION",
+    "weight": 13.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "DIARRHOEA",
+    "weight": 17.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "DIZZINESS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "DYSPEPSIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "DYSPNOEA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "FATIGUE",
+    "weight": 20.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "NEUTROPENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "ORAL HERPES",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "ORAL PAIN",
+    "weight": 13.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "VISION BLURRED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "COUGH",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "HYPERGLYCAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "HYPERTENSION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "NAUSEA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "PANCREATITIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "PAROSMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "MALAISE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DYSGEUSIA",
+    "AE2": "SINUSITIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ECZEMA",
+    "AE2": "NECK PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ECZEMA",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ECZEMA",
+    "AE2": "PARONYCHIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ECZEMA",
+    "AE2": "POLYNEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ECZEMA",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ECZEMA",
+    "AE2": "STOMATITIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "PAIN IN EXTREMITY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "PARONYCHIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "POLYNEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "STOMATITIS",
+    "weight": 16.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "ABDOMINAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "ALOPECIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "CONSTIPATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "DIARRHOEA",
+    "weight": 14.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "DIZZINESS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "DYSPEPSIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "DYSPNOEA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "FATIGUE",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "NEUTROPENIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "ORAL HERPES",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "ORAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "VISION BLURRED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "SHOULDER PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NECK PAIN",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 10.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "PARONYCHIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "POLYNEUROPATHY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "STOMATITIS",
+    "weight": 28.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "DEPRESSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "NASOPHARYNGITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "RECTAL DISCHARGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "SINUS HEADACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "SKIN IRRITATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "GOUT",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "OPEN WOUND",
+    "weight": 9.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "PYREXIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "SEPSIS",
+    "weight": 14.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "CELLULITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "DIARRHOEA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "SUNBURN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "FLUSHING",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "HYDRONEPHROSIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "HYPERTENSION",
+    "weight": 14.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "NOCTURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "MUSCULOSKELETAL STIFFNESS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "RASH PUSTULAR",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PAIN IN EXTREMITY",
+    "AE2": "SHOULDER PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PARONYCHIA",
+    "AE2": "POLYNEUROPATHY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PARONYCHIA",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PARONYCHIA",
+    "AE2": "STOMATITIS",
+    "weight": 16.0
+  },
+  {
+    "AE1": "POLYNEUROPATHY",
+    "AE2": "SKIN HYPERPIGMENTATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "POLYNEUROPATHY",
+    "AE2": "STOMATITIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "SKIN HYPERPIGMENTATION",
+    "AE2": "STOMATITIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "ABDOMINAL PAIN",
+    "weight": 32.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "ALOPECIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "CONSTIPATION",
+    "weight": 22.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "DIARRHOEA",
+    "weight": 33.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "DIZZINESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "DYSPEPSIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "DYSPNOEA",
+    "weight": 11.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "FATIGUE",
+    "weight": 29.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "NEUTROPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "ORAL HERPES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "ORAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "VISION BLURRED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "DYSPHONIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "OROPHARYNGEAL PAIN",
+    "weight": 5.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "DEHYDRATION",
+    "weight": 7.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "DISORIENTATION",
+    "weight": 7.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "GASTROINTESTINAL HAEMORRHAGE",
+    "weight": 7.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "HYPERTENSION",
+    "weight": 7.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 13.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "EPISTAXIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "AMNESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "PHOTOSENSITIVITY REACTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "SINUSITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "HYPERCHOLESTEROLAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "HYPERTRIGLYCERIDAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "INFUSION RELATED REACTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "NAUSEA",
+    "weight": 17.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 66.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "VOMITING",
+    "weight": 2.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "BURNING SENSATION",
+    "weight": 11.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "FLATULENCE",
+    "weight": 30.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "POLLAKIURIA",
+    "weight": 11.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 22.0
+  },
+  {
+    "AE1": "STOMATITIS",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 15.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "ALOPECIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "CONSTIPATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "DIARRHOEA",
+    "weight": 23.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "DIZZINESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "DYSPEPSIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "DYSPNOEA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "FATIGUE",
+    "weight": 21.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "NEUTROPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "ORAL HERPES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "ORAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "VISION BLURRED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "PULMONARY ARTERY THROMBOSIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "BLOOD ALBUMIN DECREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "BLOOD CALCIUM INCREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "HYPERCALCAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "ANXIETY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "GASTROENTERITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "INSOMNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "NAUSEA",
+    "weight": 15.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "NEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "DEHYDRATION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "ROTATOR CUFF SYNDROME",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "SHOULDER PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "VOMITING",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "BLOOD URINE PRESENT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "PLATELET COUNT DECREASED",
+    "weight": 15.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "DRUG TOXICITY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "FALL",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "BURNING SENSATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "FLATULENCE",
+    "weight": 16.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 34.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "POLLAKIURIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "CONSTIPATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "DIARRHOEA",
+    "weight": 14.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "DIZZINESS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "DYSPEPSIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "DYSPNOEA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "FATIGUE",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "NEUTROPENIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "ORAL HERPES",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "ORAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ALOPECIA",
+    "AE2": "VISION BLURRED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "DIARRHOEA",
+    "weight": 17.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "DIZZINESS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "DYSPEPSIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "DYSPNOEA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "FATIGUE",
+    "weight": 25.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "NEUTROPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "ORAL HERPES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "ORAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "VISION BLURRED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "SKIN DISORDER",
+    "weight": 6.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "COUGH",
+    "weight": 8.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "HAEMOPTYSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "HEADACHE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "NAUSEA",
+    "weight": 30.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "NEUROPATHY",
+    "weight": 19.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PAIN",
+    "weight": 8.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "VOMITING",
+    "weight": 10.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PALPITATIONS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "HYPERGLYCAEMIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "HYPERTENSION",
+    "weight": 20.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PANCREATITIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PAROSMIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "AMNESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 9.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PHOTOSENSITIVITY REACTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "SINUSITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "AFFECT LABILITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "ARTHRALGIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "ASTHENIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "DYSURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "EYE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 8.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PYREXIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "DEPRESSION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "INSOMNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "OEDEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "CATARACT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "EPISTAXIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "FUNGAL RASH",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONSTIPATION",
+    "AE2": "VULVOVAGINAL MYCOTIC INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DIZZINESS",
+    "weight": 19.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DYSPEPSIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DYSPNOEA",
+    "weight": 13.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "FATIGUE",
+    "weight": 63.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "NEUTROPENIA",
+    "weight": 18.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "ORAL HERPES",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "ORAL PAIN",
+    "weight": 22.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "VISION BLURRED",
+    "weight": 11.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 44.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DEHYDRATION",
+    "weight": 21.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PYREXIA",
+    "weight": 44.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "RECTAL HAEMORRHAGE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "LACTOSE INTOLERANCE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 17.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 21.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PERFORMANCE STATUS DECREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PROTEINURIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 55.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "EPISTAXIS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "HYPERTENSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "LEUKOPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "NAUSEA",
+    "weight": 36.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 19.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "VOMITING",
+    "weight": 23.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "NEUROPATHY",
+    "weight": 13.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PAIN",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PALPITATIONS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "ANXIETY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "GASTROENTERITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "INSOMNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "THROMBOSIS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 26.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 24.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "CELLULITIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 25.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "SEPSIS",
+    "weight": 16.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "SUNBURN",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "INJECTION SITE REACTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "NASAL CONGESTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 20.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PULMONARY HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PURULENT DISCHARGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 18.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "INFLUENZA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "EXFOLIATIVE RASH",
+    "weight": 11.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "EYE INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "FUNGAL SKIN INFECTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "POST PROCEDURAL HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "OSTEOMYELITIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "KLEBSIELLA INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "MALAISE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "ASTHENIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "MYALGIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "CANDIDIASIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "CARDIOMEGALY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "EMPHYSEMA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "PNEUMONIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "SINUS BRADYCARDIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DRUG TOXICITY",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "FALL",
+    "weight": 12.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "BURNING SENSATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "FLATULENCE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "POLLAKIURIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "DYSURIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DIARRHOEA",
+    "AE2": "GLOSSODYNIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "DYSPEPSIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "DYSPNOEA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "FATIGUE",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "NEUTROPENIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "ORAL HERPES",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "ORAL PAIN",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "VISION BLURRED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "HYPOACUSIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "SINUS CONGESTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "SKIN ULCER",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "PALPITATIONS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "NAUSEA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "VOMITING",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "EPISTAXIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "INFLUENZA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "PROTEINURIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DIZZINESS",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "DYSPNOEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "FATIGUE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "NEUTROPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "ORAL HERPES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "ORAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "VISION BLURRED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "COUGH",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "HAEMOPTYSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "HEADACHE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "DEHYDRATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "DEPRESSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "EPISTAXIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "GASTRIC ULCER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "GASTROINTESTINAL INFLAMMATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "PROTEINURIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSPEPSIA",
+    "AE2": "NAUSEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "FATIGUE",
+    "weight": 35.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "NEUTROPENIA",
+    "weight": 15.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "ORAL HERPES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "ORAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "VISION BLURRED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "DEHYDRATION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "DISORIENTATION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "GASTROINTESTINAL HAEMORRHAGE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "HYPERTENSION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "COUGH",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "BREAST PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "ANXIETY",
+    "weight": 17.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "SYNCOPE",
+    "weight": 11.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "GASTROENTERITIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "INSOMNIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "NAUSEA",
+    "weight": 17.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "NEUROPATHY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "HYPOTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "EXFOLIATIVE RASH",
+    "weight": 11.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "EYE INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "FUNGAL SKIN INFECTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "CHILLS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "HEADACHE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "NOCTURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "PYREXIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "TOOTHACHE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "VOMITING",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "ASTHENIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "DEPRESSION",
+    "weight": 14.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 17.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "OEDEMA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DYSPNOEA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "NEUTROPENIA",
+    "weight": 16.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "ORAL HERPES",
+    "weight": 5.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "ORAL PAIN",
+    "weight": 17.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "VISION BLURRED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "DEHYDRATION",
+    "weight": 17.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "DISORIENTATION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "GASTROINTESTINAL HAEMORRHAGE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HYPERTENSION",
+    "weight": 39.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 41.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "CHEST PAIN",
+    "weight": 21.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HYPERCHOLESTEROLAEMIA",
+    "weight": 21.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "BONE PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 19.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "NAUSEA",
+    "weight": 48.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "VOMITING",
+    "weight": 31.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "COUGH",
+    "weight": 13.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HYPOTENSION",
+    "weight": 16.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PHLEBITIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "SOFT TISSUE INFECTION",
+    "weight": 15.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "BLOOD ALBUMIN DECREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "BLOOD CALCIUM INCREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HYPERCALCAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 18.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "ANXIETY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "SYNCOPE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "EPISTAXIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "LEUKOPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 13.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PYREXIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 19.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HAEMOPTYSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HEADACHE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 22.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "CANDIDIASIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "DEPRESSION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "GASTRIC ULCER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "GASTROINTESTINAL INFLAMMATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PROTEINURIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "NEUROPATHY",
+    "weight": 24.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PAIN",
+    "weight": 12.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "ASTHENIA",
+    "weight": 27.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "MALAISE",
+    "weight": 11.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "SINUSITIS",
+    "weight": 17.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "EXFOLIATIVE RASH",
+    "weight": 11.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "EYE INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "FUNGAL SKIN INFECTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "MUSCLE SPASMS",
+    "weight": 9.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "KLEBSIELLA INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 10.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "MYALGIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "DRUG TOXICITY",
+    "weight": 6.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "FALL",
+    "weight": 8.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "BURNING SENSATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "FLATULENCE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 17.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "POLLAKIURIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "AFFECT LABILITY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "ARTHRALGIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "CHILLS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "DYSURIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "EYE PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "INSOMNIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "OEDEMA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FATIGUE",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "ORAL HERPES",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "ORAL PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "VISION BLURRED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "HYPERBILIRUBINAEMIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "BONE PAIN",
+    "weight": 9.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "HYPERTENSION",
+    "weight": 22.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 7.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 15.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "LEUKOPENIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "EPISTAXIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "NAUSEA",
+    "weight": 101.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 19.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "PYREXIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "VOMITING",
+    "weight": 31.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "SINUS HEADACHE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "PROTEINURIA",
+    "weight": 121.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 61.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "URINARY RETENTION",
+    "weight": 13.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "WEIGHT INCREASED",
+    "weight": 36.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "DEHYDRATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "HEADACHE",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "RHINITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "SPLENIC INFARCTION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "COUGH",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "CHILLS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "NOCTURIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUTROPENIA",
+    "AE2": "TOOTHACHE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ORAL HERPES",
+    "AE2": "ORAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL HERPES",
+    "AE2": "VISION BLURRED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "VISION BLURRED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "MALAISE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "SINUSITIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "EPISTAXIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "INFLUENZA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "PROTEINURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "DYSURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "GLOSSODYNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "NAUSEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "PYREXIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "CATARACT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "FUNGAL RASH",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "NEUROPATHY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ORAL PAIN",
+    "AE2": "VULVOVAGINAL MYCOTIC INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "PALPITATIONS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "ANXIETY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "GASTROENTERITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "INSOMNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "NAUSEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "NEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "ECCHYMOSIS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "VISION BLURRED",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 16.0
+  },
+  {
+    "AE1": "CHEST PAIN",
+    "AE2": "SKIN EXFOLIATION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "CHEST PAIN",
+    "AE2": "HYPERCHOLESTEROLAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CHEST PAIN",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PARAESTHESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "ASTHMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "COUGH",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "NEUTROPHIL COUNT DECREASED",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PLATELET COUNT DECREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "MASS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "SKIN NODULE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "AFFECT LABILITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "ASTHENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "DYSURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "EYE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "HYPERTENSION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 8.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PYREXIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "DYSPNOEA EXACERBATED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "ORAL CANDIDIASIS",
+    "weight": 14.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "PHLEBITIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ARTHRALGIA",
+    "AE2": "SKIN ULCER",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PARAESTHESIA",
+    "AE2": "EAR PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PARAESTHESIA",
+    "AE2": "MELAENA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PARAESTHESIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EAR INFECTION",
+    "AE2": "EYE DISORDER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONTRAST MEDIA REACTION",
+    "AE2": "CONVULSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CONTRAST MEDIA REACTION",
+    "AE2": "FOOD ALLERGY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CONVULSION",
+    "AE2": "FOOD ALLERGY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "LEUKOPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "NAUSEA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "PARAESTHESIA ORAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "TACHYCARDIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "GENITAL RASH",
+    "weight": 13.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "NASOPHARYNGITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 25.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 21.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "MYALGIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "VOMITING",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "AFFECT LABILITY",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "CHILLS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "DYSURIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "EYE PAIN",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "HYPERTENSION",
+    "weight": 29.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 25.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "PYREXIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "DEPRESSION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "INSOMNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "OEDEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHENIA",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "NAUSEA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "PARAESTHESIA ORAL",
+    "weight": 3.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "TACHYCARDIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 12.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "EPISTAXIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "HYPERTENSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 4.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "PYREXIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "LEUKOPENIA",
+    "AE2": "VOMITING",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PARAESTHESIA ORAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "TACHYCARDIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "VOMITING",
+    "weight": 67.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "MYOCARDIAL ISCHAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "DYSURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "RENAL COLIC",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "EPISTAXIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "HYPERTENSION",
+    "weight": 16.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 11.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 12.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PYREXIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "NEUROPATHY",
+    "weight": 26.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PAIN",
+    "weight": 12.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "ANXIETY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "GASTROENTERITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "INSOMNIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "DEHYDRATION",
+    "weight": 9.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "ROTATOR CUFF SYNDROME",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "SHOULDER PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "COUGH",
+    "weight": 7.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "HYPERGLYCAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PANCREATITIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PAROSMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PROTEINURIA",
+    "weight": 128.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 52.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "URINARY RETENTION",
+    "weight": 14.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "WEIGHT INCREASED",
+    "weight": 38.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 9.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "HYPERCHOLESTEROLAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "HYPERTRIGLYCERIDAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "INFUSION RELATED REACTION",
+    "weight": 18.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 21.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 9.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "HEADACHE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "RHINITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "SPLENIC INFARCTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 15.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "MYALGIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "ALBUMIN URINE PRESENT",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "DRUG TOXICITY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "FALL",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "BURNING SENSATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "FLATULENCE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "POLLAKIURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "CHILLS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "NOCTURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "TOOTHACHE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "DEPRESSION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "OEDEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NAUSEA",
+    "AE2": "GLOSSODYNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PARAESTHESIA ORAL",
+    "AE2": "TACHYCARDIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSPHONIA",
+    "AE2": "OROPHARYNGEAL PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OROPHARYNGEAL PAIN",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OROPHARYNGEAL PAIN",
+    "AE2": "PLATELET COUNT DECREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHROPOD BITE",
+    "AE2": "BONE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ARTHROPOD BITE",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BONE PAIN",
+    "AE2": "MUCOSAL INFLAMMATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BONE PAIN",
+    "AE2": "HYPERTENSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BONE PAIN",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "GENITAL RASH",
+    "weight": 13.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "NASOPHARYNGITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "OEDEMA PERIPHERAL",
+    "weight": 9.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "EPISTAXIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "HYPERTENSION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 13.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "PYREXIA",
+    "weight": 20.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "VOMITING",
+    "weight": 6.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "GROWTH OF EYELASHES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "LARYNGITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "RHINORRHOEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "SKIN DISORDER",
+    "weight": 4.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 15.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "CELLULITIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "SEPSIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "SUNBURN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 11.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "DERMAL CYST",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "DYSURIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "GLOSSODYNIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "MUCOSAL INFLAMMATION",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 11.0
+  },
+  {
+    "AE1": "GENITAL RASH",
+    "AE2": "NASOPHARYNGITIS",
+    "weight": 13.0
+  },
+  {
+    "AE1": "NASOPHARYNGITIS",
+    "AE2": "DEPRESSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NASOPHARYNGITIS",
+    "AE2": "RECTAL DISCHARGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NASOPHARYNGITIS",
+    "AE2": "SINUS HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NASOPHARYNGITIS",
+    "AE2": "SKIN IRRITATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NASOPHARYNGITIS",
+    "AE2": "INFLUENZA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "CELLULITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "PYREXIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "SEPSIS",
+    "weight": 9.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "SUNBURN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "ASTHMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "COUGH",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "NEUTROPHIL COUNT DECREASED",
+    "weight": 9.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "PLATELET COUNT DECREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "HYPERTENSION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "NAIL INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "TOOTH FRACTURE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "MASS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "SKIN NODULE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "CATARACT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "EPISTAXIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "FUNGAL RASH",
+    "weight": 4.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "NEUROPATHY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "OEDEMA PERIPHERAL",
+    "AE2": "VULVOVAGINAL MYCOTIC INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "HYDRONEPHROSIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "NEPHROLITHIASIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "RENAL COLIC",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "AFFECT LABILITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "EYE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "HYPERTENSION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "PYREXIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "GLOSSODYNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DYSURIA",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYDRONEPHROSIS",
+    "AE2": "NEPHROLITHIASIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYDRONEPHROSIS",
+    "AE2": "FLUSHING",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYDRONEPHROSIS",
+    "AE2": "HYPERTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYDRONEPHROSIS",
+    "AE2": "NOCTURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "DISORIENTATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "GASTROINTESTINAL HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "HYPERTENSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "PYREXIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "RECTAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "DEPRESSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "EPISTAXIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "GASTRIC ULCER",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "GASTROINTESTINAL INFLAMMATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "HEADACHE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "PROTEINURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "ROTATOR CUFF SYNDROME",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "SHOULDER PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 12.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "VOMITING",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 14.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "KLEBSIELLA INFECTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "MALAISE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "DRUG TOXICITY",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "FALL",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEHYDRATION",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "AE2": "DISORIENTATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "AE2": "GASTROINTESTINAL HAEMORRHAGE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "AE2": "HYPERTENSION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 9.0
+  },
+  {
+    "AE1": "DISORIENTATION",
+    "AE2": "GASTROINTESTINAL HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DISORIENTATION",
+    "AE2": "HYPERTENSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DISORIENTATION",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DISORIENTATION",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 7.0
+  },
+  {
+    "AE1": "GASTROINTESTINAL HAEMORRHAGE",
+    "AE2": "HYPERTENSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "GASTROINTESTINAL HAEMORRHAGE",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "GASTROINTESTINAL HAEMORRHAGE",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 7.0
+  },
+  {
+    "AE1": "GASTROINTESTINAL HAEMORRHAGE",
+    "AE2": "HAEMATURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "LOSS OF CONSCIOUSNESS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 7.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 38.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "HYPOTENSION",
+    "weight": 9.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PHLEBITIS",
+    "weight": 9.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "EPISTAXIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PYREXIA",
+    "weight": 17.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "VOMITING",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "COUGH",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "HYPERGLYCAEMIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PANCREATITIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PAROSMIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "SINUS HEADACHE",
+    "weight": 12.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PROTEINURIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "HEADACHE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "RHINITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "SPLENIC INFARCTION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "NAIL INFECTION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "TOOTH FRACTURE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "FLUSHING",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "NOCTURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 19.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 16.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "MUSCULOSKELETAL STIFFNESS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "RASH PUSTULAR",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "SHOULDER PAIN",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "ALBUMIN URINE PRESENT",
+    "weight": 8.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 10.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "AFFECT LABILITY",
+    "weight": 13.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "CHILLS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "EYE PAIN",
+    "weight": 10.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 13.0
+  },
+  {
+    "AE1": "HYPERTENSION",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "LOSS OF CONSCIOUSNESS",
+    "AE2": "PULMONARY EMBOLISM",
+    "weight": 9.0
+  },
+  {
+    "AE1": "PULMONARY EMBOLISM",
+    "AE2": "HYPERCHOLESTEROLAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PULMONARY EMBOLISM",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PULMONARY EMBOLISM",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PULMONARY EMBOLISM",
+    "AE2": "POST PROCEDURAL HAEMORRHAGE",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "RECTAL HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "ABDOMINAL PAIN UPPER",
+    "weight": 9.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "ABSCESS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "EPISTAXIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "VOMITING",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "GOUT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "OPEN WOUND",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "SEPSIS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 12.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "CELLULITIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "HYPOMAGNESAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "SUNBURN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 13.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "HEADACHE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "RHINITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "SPLENIC INFARCTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "CANDIDIASIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "CARDIOMEGALY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "EMPHYSEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "PNEUMONIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "CHILLS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "COUGH",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "NOCTURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "AFFECT LABILITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "EYE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "GLOSSODYNIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PYREXIA",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "HYPERCHOLESTEROLAEMIA",
+    "AE2": "HYPERTRIGLYCERIDAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPERCHOLESTEROLAEMIA",
+    "AE2": "INFUSION RELATED REACTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERCHOLESTEROLAEMIA",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPERCHOLESTEROLAEMIA",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPERCHOLESTEROLAEMIA",
+    "AE2": "VOMITING",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "weight": 16.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "BLOOD ALBUMIN DECREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "BLOOD CALCIUM INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "HYPERCALCAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "HYPOALBUMINAEMIA",
+    "weight": 32.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 10.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "CELLULITIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "HYPOKALAEMIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "SEPSIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "SUNBURN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "MUSCULOSKELETAL STIFFNESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "RASH PUSTULAR",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "SHOULDER PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "HAEMORRHOIDAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 11.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "SINUS BRADYCARDIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "AFFECT LABILITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "EYE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOMAGNESAEMIA",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "PLATELET COUNT DECREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "HYPERBILIRUBINAEMIA",
+    "weight": 15.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "HYPERURICAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "COUGH",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "HAEMOPTYSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "CELLULITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "SEPSIS",
+    "weight": 9.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "SUNBURN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "ASTHMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "NEUTROPHIL COUNT DECREASED",
+    "weight": 9.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "BILIARY SEPSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "GRANULOCYTES ABNORMAL",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "HYPONATRAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 18.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "MYALGIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "VOMITING",
+    "weight": 21.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 12.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "MUSCULOSKELETAL STIFFNESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "RASH PUSTULAR",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "SHOULDER PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "DRUG TOXICITY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "FALL",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "PERIPHERAL SENSORY NEUROPATHY",
+    "weight": 15.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "AFFECT LABILITY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "CHILLS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "EYE PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOKALAEMIA",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PLATELET COUNT DECREASED",
+    "AE2": "ASTHMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PLATELET COUNT DECREASED",
+    "AE2": "COUGH",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PLATELET COUNT DECREASED",
+    "AE2": "NEUTROPHIL COUNT DECREASED",
+    "weight": 9.0
+  },
+  {
+    "AE1": "PLATELET COUNT DECREASED",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PLATELET COUNT DECREASED",
+    "AE2": "HEADACHE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PLATELET COUNT DECREASED",
+    "AE2": "MASS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PLATELET COUNT DECREASED",
+    "AE2": "PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PLATELET COUNT DECREASED",
+    "AE2": "SKIN NODULE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPERBILIRUBINAEMIA",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "weight": 11.0
+  },
+  {
+    "AE1": "HYPERBILIRUBINAEMIA",
+    "AE2": "ALANINE AMINOTRANSFERASE INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HYPERBILIRUBINAEMIA",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERBILIRUBINAEMIA",
+    "AE2": "BILIARY SEPSIS",
+    "weight": 14.0
+  },
+  {
+    "AE1": "HYPERBILIRUBINAEMIA",
+    "AE2": "GRANULOCYTES ABNORMAL",
+    "weight": 12.0
+  },
+  {
+    "AE1": "HYPERBILIRUBINAEMIA",
+    "AE2": "HYPONATRAEMIA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "HYPERBILIRUBINAEMIA",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 10.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "MUSCULAR WEAKNESS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "CELLULITIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "EPISTAXIS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "NASAL CONGESTION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "PULMONARY HAEMORRHAGE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "PURULENT DISCHARGE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "DERMAL CYST",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "ECCHYMOSIS",
+    "weight": 16.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "HAEMORRHOIDAL HAEMORRHAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "DRUG TOXICITY",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "FALL",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "VOMITING",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "AFFECT LABILITY",
+    "weight": 11.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "CHILLS",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "EYE PAIN",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "INFLUENZA LIKE ILLNESS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "PERIPHERAL SENSORY NEUROPATHY",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "EPISTAXIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "NEUROPATHY",
+    "weight": 8.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "ROTATOR CUFF SYNDROME",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "SHOULDER PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "PROTEINURIA",
+    "weight": 27.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "URINARY RETENTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "WEIGHT INCREASED",
+    "weight": 8.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "HYPERTRIGLYCERIDAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "INFUSION RELATED REACTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 3.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 16.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "MYALGIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 12.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "DRUG TOXICITY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "FALL",
+    "weight": 6.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "CHILLS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "COUGH",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "HEADACHE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "NOCTURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "VOMITING",
+    "AE2": "TOOTHACHE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "MYOCARDIAL ISCHAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "GROWTH OF EYELASHES",
+    "weight": 2.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "LARYNGITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "RHINORRHOEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 3.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "AFFECT LABILITY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "CHILLS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "EYE PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "INFLUENZA LIKE ILLNESS",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "AE2": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "AE2": "BLOOD ALBUMIN DECREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "AE2": "BLOOD CALCIUM INCREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "AE2": "HYPERCALCAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 15.0
+  },
+  {
+    "AE1": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "AE2": "INJECTION SITE REACTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ALANINE AMINOTRANSFERASE INCREASED",
+    "AE2": "BLOOD ALKALINE PHOSPHATASE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ALANINE AMINOTRANSFERASE INCREASED",
+    "AE2": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ALANINE AMINOTRANSFERASE INCREASED",
+    "AE2": "ANXIETY",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ALANINE AMINOTRANSFERASE INCREASED",
+    "AE2": "GASTROENTERITIS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "ALANINE AMINOTRANSFERASE INCREASED",
+    "AE2": "INSOMNIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ALANINE AMINOTRANSFERASE INCREASED",
+    "AE2": "NEUROPATHY",
+    "weight": 5.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "HAEMOPTYSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "HEADACHE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "HYPERGLYCAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "PANCREATITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "PAROSMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "ASTHMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "NEUTROPHIL COUNT DECREASED",
+    "weight": 9.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "PROTEINURIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "NOCTURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "COUGH",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOTENSION",
+    "AE2": "PHLEBITIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOTENSION",
+    "AE2": "SOFT TISSUE INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PHLEBITIS",
+    "AE2": "DYSPNOEA EXACERBATED",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PHLEBITIS",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PHLEBITIS",
+    "AE2": "ORAL CANDIDIASIS",
+    "weight": 17.0
+  },
+  {
+    "AE1": "PHLEBITIS",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PHLEBITIS",
+    "AE2": "SKIN ULCER",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN UPPER",
+    "AE2": "ABSCESS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN UPPER",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 13.0
+  },
+  {
+    "AE1": "ABSCESS",
+    "AE2": "RENAL FAILURE ACUTE",
+    "weight": 9.0
+  },
+  {
+    "AE1": "RENAL FAILURE ACUTE",
+    "AE2": "DRUG TOXICITY",
+    "weight": 6.0
+  },
+  {
+    "AE1": "RENAL FAILURE ACUTE",
+    "AE2": "FALL",
+    "weight": 8.0
+  },
+  {
+    "AE1": "RENAL FAILURE ACUTE",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "RENAL FAILURE ACUTE",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "AE2": "BLOOD ALBUMIN DECREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "AE2": "BLOOD CALCIUM INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "AE2": "HYPERCALCAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "BLOOD ALBUMIN DECREASED",
+    "AE2": "BLOOD CALCIUM INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BLOOD ALBUMIN DECREASED",
+    "AE2": "HYPERCALCAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BLOOD ALBUMIN DECREASED",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BLOOD ALBUMIN DECREASED",
+    "AE2": "BLOOD URIC ACID INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BLOOD ALBUMIN DECREASED",
+    "AE2": "SINUS CONGESTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BLOOD ALBUMIN DECREASED",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "BLOOD ALBUMIN DECREASED",
+    "AE2": "TOOTH ABSCESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "BLOOD CALCIUM INCREASED",
+    "AE2": "HYPERCALCAEMIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BLOOD CALCIUM INCREASED",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPERCALCAEMIA",
+    "AE2": "WEIGHT DECREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "MUSCULAR WEAKNESS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "AMNESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 9.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "PHOTOSENSITIVITY REACTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "SINUSITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "PROTEINURIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "INJECTION SITE REACTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "DYSPNOEA EXERTIONAL",
+    "weight": 12.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "MYALGIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "DEPRESSION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "INSOMNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "OEDEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "WEIGHT DECREASED",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ATAXIA",
+    "AE2": "HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "HAEMOPTYSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 8.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "DEPRESSION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "EPISTAXIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "GASTRIC ULCER",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "GASTROINTESTINAL INFLAMMATION",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "PROTEINURIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "AMNESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "PHOTOSENSITIVITY REACTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "SINUSITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "RHINITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "SPLENIC INFARCTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "ALBUMIN URINE PRESENT",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "MASS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "SKIN NODULE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "NOCTURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HEADACHE",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ECZEMA ASTEATOTIC",
+    "AE2": "POSTOPERATIVE WOUND INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ECZEMA ASTEATOTIC",
+    "AE2": "STAPHYLOCOCCAL INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "POSTOPERATIVE WOUND INFECTION",
+    "AE2": "STAPHYLOCOCCAL INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANXIETY",
+    "AE2": "SYNCOPE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ANXIETY",
+    "AE2": "GASTROENTERITIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "ANXIETY",
+    "AE2": "INSOMNIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "ANXIETY",
+    "AE2": "NEUROPATHY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "AE2": "LACTOSE INTOLERANCE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 5.0
+  },
+  {
+    "AE1": "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 4.0
+  },
+  {
+    "AE1": "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "AE2": "PERFORMANCE STATUS DECREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "LACTOSE INTOLERANCE",
+    "AE2": "NEUROPATHY PERIPHERAL",
+    "weight": 4.0
+  },
+  {
+    "AE1": "LACTOSE INTOLERANCE",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 3.0
+  },
+  {
+    "AE1": "LACTOSE INTOLERANCE",
+    "AE2": "PERFORMANCE STATUS DECREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "PERFORMANCE STATUS DECREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "EPISTAXIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "DEPRESSION",
+    "weight": 26.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "INSOMNIA",
+    "weight": 19.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "SKIN ULCER",
+    "weight": 12.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "AMNESIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "PHOTOSENSITIVITY REACTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "SINUSITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 14.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 7.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 7.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "OEDEMA",
+    "weight": 7.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "GLOSSODYNIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "DYSPNOEA EXACERBATED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "ORAL CANDIDIASIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "NEUROPATHY PERIPHERAL",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "PERFORMANCE STATUS DECREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "ASTHMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "NEUTROPHIL COUNT DECREASED",
+    "weight": 9.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "HYPERTRIGLYCERIDAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "INFUSION RELATED REACTION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "EPISTAXIS",
+    "weight": 14.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "HERPES SIMPLEX",
+    "weight": 10.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "NEUROPATHY",
+    "weight": 17.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "BURNING SENSATION",
+    "weight": 12.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "FLATULENCE",
+    "weight": 34.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "POLLAKIURIA",
+    "weight": 12.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 24.0
+  },
+  {
+    "AE1": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 17.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "THROMBOCYTOPENIA",
+    "weight": 72.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "DEPRESSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "EPISTAXIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "GASTRIC ULCER",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "GASTROINTESTINAL INFLAMMATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "URINARY RETENTION",
+    "weight": 20.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "WEIGHT INCREASED",
+    "weight": 54.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "INFLUENZA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 18.0
+  },
+  {
+    "AE1": "PROTEINURIA",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 12.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "HAEMOPTYSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "EPISTAXIS",
+    "weight": 30.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "NEUROPATHY",
+    "weight": 22.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "BLOOD URIC ACID INCREASED",
+    "weight": 7.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "SINUS CONGESTION",
+    "weight": 7.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "TOOTH ABSCESS",
+    "weight": 9.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 13.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "CELLULITIS",
+    "weight": 13.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 7.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "SEPSIS",
+    "weight": 23.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "SUNBURN",
+    "weight": 7.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "URINARY RETENTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "WEIGHT INCREASED",
+    "weight": 18.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "INFLUENZA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 5.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "EAR PAIN",
+    "weight": 13.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "MELAENA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "DYSPHAGIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "OEDEMA",
+    "weight": 9.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 12.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "RHINITIS",
+    "weight": 18.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "SPLENIC INFARCTION",
+    "weight": 9.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "DERMAL CYST",
+    "weight": 2.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "BURNING SENSATION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "FLATULENCE",
+    "weight": 12.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "POLLAKIURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "CATARACT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "FUNGAL RASH",
+    "weight": 4.0
+  },
+  {
+    "AE1": "THROMBOCYTOPENIA",
+    "AE2": "VULVOVAGINAL MYCOTIC INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "URINARY TRACT INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "DEPRESSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "GASTRIC ULCER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "GASTROINTESTINAL INFLAMMATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "NEUROPATHY",
+    "weight": 15.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "CELLULITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "NASAL CONGESTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "PULMONARY HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "PURULENT DISCHARGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "INFLUENZA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "HERPES SIMPLEX",
+    "weight": 6.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "CATARACT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "FUNGAL RASH",
+    "weight": 4.0
+  },
+  {
+    "AE1": "EPISTAXIS",
+    "AE2": "VULVOVAGINAL MYCOTIC INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "URINARY TRACT INFECTION",
+    "AE2": "ROTATOR CUFF SYNDROME",
+    "weight": 4.0
+  },
+  {
+    "AE1": "URINARY TRACT INFECTION",
+    "AE2": "SHOULDER PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "URINARY TRACT INFECTION",
+    "AE2": "SKIN LACERATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "URINARY TRACT INFECTION",
+    "AE2": "KLEBSIELLA INFECTION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "URINARY TRACT INFECTION",
+    "AE2": "MALAISE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "URINARY TRACT INFECTION",
+    "AE2": "BURNING SENSATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "URINARY TRACT INFECTION",
+    "AE2": "FLATULENCE",
+    "weight": 8.0
+  },
+  {
+    "AE1": "URINARY TRACT INFECTION",
+    "AE2": "POLLAKIURIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPOACUSIS",
+    "AE2": "SINUS CONGESTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOACUSIS",
+    "AE2": "SKIN ULCER",
+    "weight": 4.0
+  },
+  {
+    "AE1": "SINUS CONGESTION",
+    "AE2": "SKIN ULCER",
+    "weight": 4.0
+  },
+  {
+    "AE1": "SINUS CONGESTION",
+    "AE2": "BLOOD URIC ACID INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SINUS CONGESTION",
+    "AE2": "TOOTH ABSCESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "SKIN ULCER",
+    "AE2": "DEPRESSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SKIN ULCER",
+    "AE2": "INSOMNIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "SKIN ULCER",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SKIN ULCER",
+    "AE2": "FLATULENCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SKIN ULCER",
+    "AE2": "DYSPNOEA EXACERBATED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "SKIN ULCER",
+    "AE2": "ORAL CANDIDIASIS",
+    "weight": 14.0
+  },
+  {
+    "AE1": "SKIN ULCER",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HAEMOPTYSIS",
+    "AE2": "HIGH FREQUENCY ABLATION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "HAEMOPTYSIS",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "HIGH FREQUENCY ABLATION",
+    "AE2": "INCISION SITE COMPLICATION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "CANDIDIASIS",
+    "AE2": "CARDIOMEGALY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CANDIDIASIS",
+    "AE2": "EMPHYSEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CANDIDIASIS",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CANDIDIASIS",
+    "AE2": "PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CANDIDIASIS",
+    "AE2": "PNEUMONIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "GASTRIC ULCER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "GASTROINTESTINAL INFLAMMATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "INSOMNIA",
+    "weight": 10.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "RECTAL DISCHARGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "SINUS HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "SKIN IRRITATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "OEDEMA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEPRESSION",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 8.0
+  },
+  {
+    "AE1": "GASTRIC ULCER",
+    "AE2": "GASTROINTESTINAL INFLAMMATION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "INSOMNIA",
+    "AE2": "UPPER RESPIRATORY TRACT INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "INSOMNIA",
+    "AE2": "GASTROENTERITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "INSOMNIA",
+    "AE2": "NEUROPATHY",
+    "weight": 2.0
+  },
+  {
+    "AE1": "INSOMNIA",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "INSOMNIA",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "INSOMNIA",
+    "AE2": "OEDEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "INSOMNIA",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "CELLULITIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "NASAL CONGESTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "PULMONARY HAEMORRHAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "PURULENT DISCHARGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "ANGINA PECTORIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "NAIL INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "TOOTH FRACTURE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "UPPER RESPIRATORY TRACT INFECTION",
+    "AE2": "GLOSSODYNIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "NEUROPATHY",
+    "AE2": "PAIN",
+    "weight": 16.0
+  },
+  {
+    "AE1": "NEUROPATHY",
+    "AE2": "GASTROENTERITIS",
+    "weight": 5.0
+  },
+  {
+    "AE1": "NEUROPATHY",
+    "AE2": "HERPES SIMPLEX",
+    "weight": 7.0
+  },
+  {
+    "AE1": "NEUROPATHY",
+    "AE2": "CATARACT",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NEUROPATHY",
+    "AE2": "FUNGAL RASH",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NEUROPATHY",
+    "AE2": "VULVOVAGINAL MYCOTIC INFECTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PAIN",
+    "AE2": "CARDIOMEGALY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN",
+    "AE2": "EMPHYSEMA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PAIN",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PAIN",
+    "AE2": "PNEUMONIA",
+    "weight": 5.0
+  },
+  {
+    "AE1": "PAIN",
+    "AE2": "MASS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PAIN",
+    "AE2": "SKIN NODULE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RECTAL DISCHARGE",
+    "AE2": "SINUS HEADACHE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "RECTAL DISCHARGE",
+    "AE2": "SKIN IRRITATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SINUS HEADACHE",
+    "AE2": "SKIN IRRITATION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "GOUT",
+    "AE2": "OPEN WOUND",
+    "weight": 6.0
+  },
+  {
+    "AE1": "GOUT",
+    "AE2": "SEPSIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "OPEN WOUND",
+    "AE2": "SEPSIS",
+    "weight": 12.0
+  },
+  {
+    "AE1": "SEPSIS",
+    "AE2": "CATHETER RELATED INFECTION",
+    "weight": 11.0
+  },
+  {
+    "AE1": "SEPSIS",
+    "AE2": "CELLULITIS",
+    "weight": 11.0
+  },
+  {
+    "AE1": "SEPSIS",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 7.0
+  },
+  {
+    "AE1": "SEPSIS",
+    "AE2": "SUNBURN",
+    "weight": 7.0
+  },
+  {
+    "AE1": "ROTATOR CUFF SYNDROME",
+    "AE2": "SHOULDER PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "SHOULDER PAIN",
+    "AE2": "MUSCULOSKELETAL STIFFNESS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "SHOULDER PAIN",
+    "AE2": "RASH PUSTULAR",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SHOULDER PAIN",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERGLYCAEMIA",
+    "AE2": "PANCREATITIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERGLYCAEMIA",
+    "AE2": "PAROSMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PANCREATITIS",
+    "AE2": "PAROSMIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "GROWTH OF EYELASHES",
+    "AE2": "LARYNGITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "GROWTH OF EYELASHES",
+    "AE2": "RHINORRHOEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "LARYNGITIS",
+    "AE2": "RHINORRHOEA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "AMNESIA",
+    "AE2": "PHOTOSENSITIVITY REACTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "AMNESIA",
+    "AE2": "SINUSITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PHOTOSENSITIVITY REACTION",
+    "AE2": "SINUSITIS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "SINUSITIS",
+    "AE2": "MALAISE",
+    "weight": 12.0
+  },
+  {
+    "AE1": "INFLUENZA",
+    "AE2": "MUSCULOSKELETAL CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BLOOD URIC ACID INCREASED",
+    "AE2": "TOOTH ABSCESS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CATHETER RELATED INFECTION",
+    "AE2": "CELLULITIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "CATHETER RELATED INFECTION",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CATHETER RELATED INFECTION",
+    "AE2": "SUNBURN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CATHETER RELATED INFECTION",
+    "AE2": "GLOSSODYNIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CELLULITIS",
+    "AE2": "DEVICE LEAKAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CELLULITIS",
+    "AE2": "SUNBURN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CELLULITIS",
+    "AE2": "NASAL CONGESTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CELLULITIS",
+    "AE2": "PULMONARY HAEMORRHAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CELLULITIS",
+    "AE2": "PURULENT DISCHARGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CELLULITIS",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DEVICE LEAKAGE",
+    "AE2": "SUNBURN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "URINARY RETENTION",
+    "AE2": "WEIGHT INCREASED",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NASAL CONGESTION",
+    "AE2": "PULMONARY HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NASAL CONGESTION",
+    "AE2": "PURULENT DISCHARGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NASAL CONGESTION",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PULMONARY HAEMORRHAGE",
+    "AE2": "PURULENT DISCHARGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PULMONARY HAEMORRHAGE",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "PURULENT DISCHARGE",
+    "AE2": "UMBILICAL HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ASTHMA",
+    "AE2": "NEUTROPHIL COUNT DECREASED",
+    "weight": 9.0
+  },
+  {
+    "AE1": "ANGINA PECTORIS",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 12.0
+  },
+  {
+    "AE1": "BILIARY SEPSIS",
+    "AE2": "GRANULOCYTES ABNORMAL",
+    "weight": 5.0
+  },
+  {
+    "AE1": "BILIARY SEPSIS",
+    "AE2": "HYPONATRAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "BILIARY SEPSIS",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 4.0
+  },
+  {
+    "AE1": "GRANULOCYTES ABNORMAL",
+    "AE2": "HYPONATRAEMIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "GRANULOCYTES ABNORMAL",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPONATRAEMIA",
+    "AE2": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "AE2": "CARDIOMEGALY",
+    "weight": 4.0
+  },
+  {
+    "AE1": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "AE2": "EMPHYSEMA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "AE2": "PNEUMONIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "MALAISE",
+    "AE2": "KLEBSIELLA INFECTION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "MUSCULOSKELETAL CHEST PAIN",
+    "AE2": "DEEP VEIN THROMBOSIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "MUSCULOSKELETAL CHEST PAIN",
+    "AE2": "POST PROCEDURAL HAEMORRHAGE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "MUSCULOSKELETAL CHEST PAIN",
+    "AE2": "HYPOGLYCAEMIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "MUSCULOSKELETAL CHEST PAIN",
+    "AE2": "MENTAL STATUS CHANGES",
+    "weight": 3.0
+  },
+  {
+    "AE1": "EXFOLIATIVE RASH",
+    "AE2": "EYE INFECTION",
+    "weight": 15.0
+  },
+  {
+    "AE1": "EXFOLIATIVE RASH",
+    "AE2": "FUNGAL SKIN INFECTION",
+    "weight": 11.0
+  },
+  {
+    "AE1": "EXFOLIATIVE RASH",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 11.0
+  },
+  {
+    "AE1": "EYE INFECTION",
+    "AE2": "FUNGAL SKIN INFECTION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "EYE INFECTION",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "FUNGAL SKIN INFECTION",
+    "AE2": "LACRIMATION INCREASED",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPERTRIGLYCERIDAEMIA",
+    "AE2": "INFUSION RELATED REACTION",
+    "weight": 6.0
+  },
+  {
+    "AE1": "HYPERTRIGLYCERIDAEMIA",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "INFUSION RELATED REACTION",
+    "AE2": "PHARYNGOLARYNGEAL PAIN",
+    "weight": 8.0
+  },
+  {
+    "AE1": "PHARYNGOLARYNGEAL PAIN",
+    "AE2": "DYSPHAGIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PHARYNGOLARYNGEAL PAIN",
+    "AE2": "EAR PAIN",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PHARYNGOLARYNGEAL PAIN",
+    "AE2": "OEDEMA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PHARYNGOLARYNGEAL PAIN",
+    "AE2": "RHINITIS",
+    "weight": 6.0
+  },
+  {
+    "AE1": "PHARYNGOLARYNGEAL PAIN",
+    "AE2": "DYSPNOEA EXACERBATED",
+    "weight": 3.0
+  },
+  {
+    "AE1": "PHARYNGOLARYNGEAL PAIN",
+    "AE2": "ORAL CANDIDIASIS",
+    "weight": 7.0
+  },
+  {
+    "AE1": "DEEP VEIN THROMBOSIS",
+    "AE2": "POST PROCEDURAL HAEMORRHAGE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "DEEP VEIN THROMBOSIS",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEEP VEIN THROMBOSIS",
+    "AE2": "CHILLS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEEP VEIN THROMBOSIS",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEEP VEIN THROMBOSIS",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEEP VEIN THROMBOSIS",
+    "AE2": "NOCTURIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEEP VEIN THROMBOSIS",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DEEP VEIN THROMBOSIS",
+    "AE2": "TOOTHACHE",
+    "weight": 5.0
+  },
+  {
+    "AE1": "EAR PAIN",
+    "AE2": "MELAENA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "EAR PAIN",
+    "AE2": "DYSPHAGIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "EAR PAIN",
+    "AE2": "OEDEMA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "EAR PAIN",
+    "AE2": "RHINITIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPHAGIA",
+    "AE2": "OEDEMA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSPHAGIA",
+    "AE2": "RHINITIS",
+    "weight": 3.0
+  },
+  {
+    "AE1": "OEDEMA",
+    "AE2": "RHINITIS",
+    "weight": 4.0
+  },
+  {
+    "AE1": "OEDEMA",
+    "AE2": "ABDOMINAL DISTENSION",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "OEDEMA",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "RHINITIS",
+    "AE2": "SPLENIC INFARCTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "PELVIC MASS",
+    "AE2": "PELVIC PAIN",
+    "weight": 6.0
+  },
+  {
+    "AE1": "NAIL INFECTION",
+    "AE2": "TOOTH FRACTURE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DYSPNOEA EXERTIONAL",
+    "AE2": "MYALGIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "FLUSHING",
+    "AE2": "NOCTURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NOCTURIA",
+    "AE2": "ABDOMINAL DISCOMFORT",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NOCTURIA",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NOCTURIA",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NOCTURIA",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NOCTURIA",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "NOCTURIA",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "MUSCULOSKELETAL STIFFNESS",
+    "AE2": "RASH PUSTULAR",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CARDIOMEGALY",
+    "AE2": "EMPHYSEMA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CARDIOMEGALY",
+    "AE2": "PNEUMONIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "EMPHYSEMA",
+    "AE2": "PNEUMONIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DRUG TOXICITY",
+    "AE2": "FALL",
+    "weight": 8.0
+  },
+  {
+    "AE1": "DRUG TOXICITY",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "DRUG TOXICITY",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FALL",
+    "AE2": "HYPOAESTHESIA",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FALL",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 4.0
+  },
+  {
+    "AE1": "HYPOAESTHESIA",
+    "AE2": "LIP HAEMORRHAGE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "BURNING SENSATION",
+    "AE2": "FLATULENCE",
+    "weight": 6.0
+  },
+  {
+    "AE1": "BURNING SENSATION",
+    "AE2": "POLLAKIURIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "FLATULENCE",
+    "AE2": "POLLAKIURIA",
+    "weight": 6.0
+  },
+  {
+    "AE1": "MASS",
+    "AE2": "SKIN NODULE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL DISCOMFORT",
+    "AE2": "CHILLS",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL DISCOMFORT",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL DISCOMFORT",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL DISCOMFORT",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL DISCOMFORT",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CHILLS",
+    "AE2": "CONFUSIONAL STATE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CHILLS",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CHILLS",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CHILLS",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CHILLS",
+    "AE2": "ABDOMINAL PAIN LOWER",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CHILLS",
+    "AE2": "AFFECT LABILITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "CHILLS",
+    "AE2": "EYE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CHILLS",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONFUSIONAL STATE",
+    "AE2": "HYPERCHLORHYDRIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONFUSIONAL STATE",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "CONFUSIONAL STATE",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "HYPERCHLORHYDRIA",
+    "AE2": "NON-CARDIAC CHEST PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPERCHLORHYDRIA",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "NON-CARDIAC CHEST PAIN",
+    "AE2": "TOOTHACHE",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN LOWER",
+    "AE2": "AFFECT LABILITY",
+    "weight": 3.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN LOWER",
+    "AE2": "EYE PAIN",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL PAIN LOWER",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "AFFECT LABILITY",
+    "AE2": "EYE PAIN",
+    "weight": 3.0
+  },
+  {
+    "AE1": "AFFECT LABILITY",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 3.0
+  },
+  {
+    "AE1": "EYE PAIN",
+    "AE2": "PHOTOPHOBIA",
+    "weight": 2.0
+  },
+  {
+    "AE1": "HYPOGLYCAEMIA",
+    "AE2": "MENTAL STATUS CHANGES",
+    "weight": 5.0
+  },
+  {
+    "AE1": "ABDOMINAL DISTENSION",
+    "AE2": "GAIT DISTURBANCE",
+    "weight": 2.0
+  },
+  {
+    "AE1": "ABDOMINAL DISTENSION",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "GAIT DISTURBANCE",
+    "AE2": "PLEURAL EFFUSION",
+    "weight": 3.0
+  },
+  {
+    "AE1": "DYSPNOEA EXACERBATED",
+    "AE2": "ORAL CANDIDIASIS",
+    "weight": 10.0
+  },
+  {
+    "AE1": "CATARACT",
+    "AE2": "FUNGAL RASH",
+    "weight": 4.0
+  },
+  {
+    "AE1": "CATARACT",
+    "AE2": "VULVOVAGINAL MYCOTIC INFECTION",
+    "weight": 4.0
+  },
+  {
+    "AE1": "FUNGAL RASH",
+    "AE2": "VULVOVAGINAL MYCOTIC INFECTION",
+    "weight": 8.0
+  }
+]

@@ -1,0 +1,3422 @@
+[
+  {
+    "AE": "DERMATITIS ACNEIFORM",
+    "degree": 110,
+    "degree_centrality": 0.19332161687170474,
+    "betweenness_centrality": 0.006133908856450714
+  },
+  {
+    "AE": "SKIN FISSURES",
+    "degree": 102,
+    "degree_centrality": 0.17926186291739893,
+    "betweenness_centrality": 0.02788716921439572
+  },
+  {
+    "AE": "DRY SKIN",
+    "degree": 131,
+    "degree_centrality": 0.23022847100175745,
+    "betweenness_centrality": 0.00825570172200126
+  },
+  {
+    "AE": "PALMAR-PLANTAR ERYTHRODYSAESTHESIA SYNDROME",
+    "degree": 78,
+    "degree_centrality": 0.13708260105448153,
+    "betweenness_centrality": 0.009011608402364585
+  },
+  {
+    "AE": "EXFOLIATIVE RASH",
+    "degree": 56,
+    "degree_centrality": 0.0984182776801406,
+    "betweenness_centrality": 0.00016879425681179814
+  },
+  {
+    "AE": "PRURITUS",
+    "degree": 135,
+    "degree_centrality": 0.23725834797891035,
+    "betweenness_centrality": 0.023960682094223203
+  },
+  {
+    "AE": "INJECTION SITE REACTION",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 7.15853296517422e-05
+  },
+  {
+    "AE": "RASH PUSTULAR",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.007003042696540046
+  },
+  {
+    "AE": "SCAB",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 6.1882719869303695e-06
+  },
+  {
+    "AE": "RASH",
+    "degree": 217,
+    "degree_centrality": 0.3813708260105448,
+    "betweenness_centrality": 0.04729326017663896
+  },
+  {
+    "AE": "FOLLICULITIS",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.00013036380752784625
+  },
+  {
+    "AE": "DANDRUFF",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 4.2313537542379816e-05
+  },
+  {
+    "AE": "SKIN EXFOLIATION",
+    "degree": 39,
+    "degree_centrality": 0.06854130052724076,
+    "betweenness_centrality": 0.0014926446084854946
+  },
+  {
+    "AE": "ACNE",
+    "degree": 45,
+    "degree_centrality": 0.07908611599297012,
+    "betweenness_centrality": 0.002296218413384449
+  },
+  {
+    "AE": "ERYTHEMA",
+    "degree": 106,
+    "degree_centrality": 0.18629173989455183,
+    "betweenness_centrality": 0.016327917295778507
+  },
+  {
+    "AE": "RASH GENERALISED",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ECZEMA",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 1.1345165309372343e-05
+  },
+  {
+    "AE": "DECUBITUS ULCER",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "URTICARIA",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0012697390874574965
+  },
+  {
+    "AE": "DERMATITIS EXFOLIATIVE",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DERMATITIS",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.003584042967517134
+  },
+  {
+    "AE": "SKIN ULCER",
+    "degree": 63,
+    "degree_centrality": 0.11072056239015816,
+    "betweenness_centrality": 0.005233508489111674
+  },
+  {
+    "AE": "PRURITUS GENERALISED",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "JAUNDICE",
+    "degree": 40,
+    "degree_centrality": 0.07029876977152899,
+    "betweenness_centrality": 0.0005614359070390673
+  },
+  {
+    "AE": "DERMATITIS ALLERGIC",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FACE OEDEMA",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0006185950498500477
+  },
+  {
+    "AE": "DERMATOSIS",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 3.4035495928117036e-05
+  },
+  {
+    "AE": "SKIN HYPERPIGMENTATION",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.005505487577511098
+  },
+  {
+    "AE": "DERMAL CYST",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 1.0835121457905152e-05
+  },
+  {
+    "AE": "SUBCUTANEOUS ABSCESS",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 1.753343729630271e-05
+  },
+  {
+    "AE": "RASH MACULO-PAPULAR",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPERHIDROSIS",
+    "degree": 55,
+    "degree_centrality": 0.09666080843585237,
+    "betweenness_centrality": 0.010440181152191561
+  },
+  {
+    "AE": "SKIN LESION",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.0020785522022475204
+  },
+  {
+    "AE": "SWELLING FACE",
+    "degree": 32,
+    "degree_centrality": 0.056239015817223195,
+    "betweenness_centrality": 0.0045940329098068415
+  },
+  {
+    "AE": "CELLULITIS",
+    "degree": 19,
+    "degree_centrality": 0.03339191564147627,
+    "betweenness_centrality": 4.9712451628340636e-05
+  },
+  {
+    "AE": "CONTUSION",
+    "degree": 82,
+    "degree_centrality": 0.14411247803163443,
+    "betweenness_centrality": 0.023393716158754713
+  },
+  {
+    "AE": "FLUSHING",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.00021752220273819846
+  },
+  {
+    "AE": "ECCHYMOSIS",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 6.52190491651486e-05
+  },
+  {
+    "AE": "EXCORIATION",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0014745815933523154
+  },
+  {
+    "AE": "HERPES SIMPLEX",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 6.52190491651486e-05
+  },
+  {
+    "AE": "CONTRAST MEDIA REACTION",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "OEDEMA",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.00797537896134176
+  },
+  {
+    "AE": "DIARRHOEA",
+    "degree": 288,
+    "degree_centrality": 0.5061511423550088,
+    "betweenness_centrality": 0.04777932451258196
+  },
+  {
+    "AE": "NAUSEA",
+    "degree": 256,
+    "degree_centrality": 0.44991212653778556,
+    "betweenness_centrality": 0.02754556993084607
+  },
+  {
+    "AE": "VOMITING",
+    "degree": 188,
+    "degree_centrality": 0.3304042179261863,
+    "betweenness_centrality": 0.03971321971670877
+  },
+  {
+    "AE": "ANAEMIA",
+    "degree": 179,
+    "degree_centrality": 0.3145869947275923,
+    "betweenness_centrality": 0.044913811455232454
+  },
+  {
+    "AE": "LEUKOPENIA",
+    "degree": 84,
+    "degree_centrality": 0.14762741652021089,
+    "betweenness_centrality": 0.012381535034750096
+  },
+  {
+    "AE": "COUGH",
+    "degree": 129,
+    "degree_centrality": 0.226713532513181,
+    "betweenness_centrality": 0.03118335684851716
+  },
+  {
+    "AE": "DYSPNOEA",
+    "degree": 178,
+    "degree_centrality": 0.312829525483304,
+    "betweenness_centrality": 0.03405141744085951
+  },
+  {
+    "AE": "FATIGUE",
+    "degree": 260,
+    "degree_centrality": 0.45694200351493847,
+    "betweenness_centrality": 0.026413982403335576
+  },
+  {
+    "AE": "FLATULENCE",
+    "degree": 52,
+    "degree_centrality": 0.09138840070298769,
+    "betweenness_centrality": 0.010343729466026904
+  },
+  {
+    "AE": "NEUTROPENIA",
+    "degree": 211,
+    "degree_centrality": 0.37082601054481545,
+    "betweenness_centrality": 0.020821122127458246
+  },
+  {
+    "AE": "NIGHT SWEATS",
+    "degree": 31,
+    "degree_centrality": 0.05448154657293497,
+    "betweenness_centrality": 0.004163322432888819
+  },
+  {
+    "AE": "POLYNEUROPATHY",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.005179555722421146
+  },
+  {
+    "AE": "ABDOMINAL PAIN",
+    "degree": 169,
+    "degree_centrality": 0.29701230228471,
+    "betweenness_centrality": 0.01844606455898864
+  },
+  {
+    "AE": "BACK PAIN",
+    "degree": 108,
+    "degree_centrality": 0.18980667838312829,
+    "betweenness_centrality": 0.012092494833400046
+  },
+  {
+    "AE": "HAEMOPTYSIS",
+    "degree": 35,
+    "degree_centrality": 0.06151142355008787,
+    "betweenness_centrality": 0.00020715039558327764
+  },
+  {
+    "AE": "ILEUS",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.005295487692410621
+  },
+  {
+    "AE": "LUNG INFILTRATION",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 1.3209013895912085e-05
+  },
+  {
+    "AE": "MUSCULOSKELETAL PAIN",
+    "degree": 29,
+    "degree_centrality": 0.050966608084358524,
+    "betweenness_centrality": 0.0042061345875248745
+  },
+  {
+    "AE": "PERIPHERAL SENSORY NEUROPATHY",
+    "degree": 89,
+    "degree_centrality": 0.156414762741652,
+    "betweenness_centrality": 0.0039021138040831334
+  },
+  {
+    "AE": "RENAL PAIN",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ASTHENIA",
+    "degree": 190,
+    "degree_centrality": 0.3339191564147627,
+    "betweenness_centrality": 0.022500221178439632
+  },
+  {
+    "AE": "BLOOD POTASSIUM DECREASED",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "COLORECTAL CANCER METASTATIC",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FLUID RETENTION",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 2.6815845276698272e-05
+  },
+  {
+    "AE": "HAEMORRHOIDS",
+    "degree": 62,
+    "degree_centrality": 0.10896309314586994,
+    "betweenness_centrality": 0.007341988721405953
+  },
+  {
+    "AE": "INFECTION",
+    "degree": 25,
+    "degree_centrality": 0.04393673110720562,
+    "betweenness_centrality": 0.0001084356140786187
+  },
+  {
+    "AE": "THROMBOCYTOPENIA",
+    "degree": 156,
+    "degree_centrality": 0.27416520210896306,
+    "betweenness_centrality": 0.03329317657898515
+  },
+  {
+    "AE": "CATARACT",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0021862949184998266
+  },
+  {
+    "AE": "DEPRESSION",
+    "degree": 80,
+    "degree_centrality": 0.14059753954305798,
+    "betweenness_centrality": 0.004592506202361178
+  },
+  {
+    "AE": "DYSGEUSIA",
+    "degree": 99,
+    "degree_centrality": 0.17398945518453426,
+    "betweenness_centrality": 0.02055186089267748
+  },
+  {
+    "AE": "EPISTAXIS",
+    "degree": 147,
+    "degree_centrality": 0.25834797891036904,
+    "betweenness_centrality": 0.03662402406713522
+  },
+  {
+    "AE": "FACIAL PAIN",
+    "degree": 29,
+    "degree_centrality": 0.050966608084358524,
+    "betweenness_centrality": 0.0012703506907655957
+  },
+  {
+    "AE": "HYPOMAGNESAEMIA",
+    "degree": 174,
+    "degree_centrality": 0.3057996485061511,
+    "betweenness_centrality": 0.04218871340943175
+  },
+  {
+    "AE": "INSOMNIA",
+    "degree": 87,
+    "degree_centrality": 0.15289982425307555,
+    "betweenness_centrality": 0.014803153282976668
+  },
+  {
+    "AE": "LACRIMATION INCREASED",
+    "degree": 96,
+    "degree_centrality": 0.1687170474516696,
+    "betweenness_centrality": 0.0300803185542982
+  },
+  {
+    "AE": "PAIN",
+    "degree": 70,
+    "degree_centrality": 0.12302284710017573,
+    "betweenness_centrality": 0.011789132300403404
+  },
+  {
+    "AE": "PARONYCHIA",
+    "degree": 93,
+    "degree_centrality": 0.1634446397188049,
+    "betweenness_centrality": 0.005300621767198894
+  },
+  {
+    "AE": "SKIN INFECTION",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ALOPECIA",
+    "degree": 122,
+    "degree_centrality": 0.21441124780316342,
+    "betweenness_centrality": 0.018087254466965994
+  },
+  {
+    "AE": "HYPERTRICHOSIS",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0014777825692588995
+  },
+  {
+    "AE": "CONSTIPATION",
+    "degree": 185,
+    "degree_centrality": 0.3251318101933216,
+    "betweenness_centrality": 0.04085600977278257
+  },
+  {
+    "AE": "NAIL DISORDER",
+    "degree": 82,
+    "degree_centrality": 0.14411247803163443,
+    "betweenness_centrality": 0.011577839768071821
+  },
+  {
+    "AE": "NASAL CONGESTION",
+    "degree": 21,
+    "degree_centrality": 0.03690685413005272,
+    "betweenness_centrality": 0.002568042772690102
+  },
+  {
+    "AE": "NASOPHARYNGITIS",
+    "degree": 41,
+    "degree_centrality": 0.07205623901581722,
+    "betweenness_centrality": 0.0019626758323046103
+  },
+  {
+    "AE": "NERVOUSNESS",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0005215053926359478
+  },
+  {
+    "AE": "ORAL HERPES",
+    "degree": 27,
+    "degree_centrality": 0.04745166959578207,
+    "betweenness_centrality": 0.0030832716736346978
+  },
+  {
+    "AE": "OROPHARYNGEAL PAIN",
+    "degree": 37,
+    "degree_centrality": 0.06502636203866433,
+    "betweenness_centrality": 0.0027274308718558938
+  },
+  {
+    "AE": "STOMATITIS",
+    "degree": 153,
+    "degree_centrality": 0.2688927943760984,
+    "betweenness_centrality": 0.012772917261103143
+  },
+  {
+    "AE": "DYSPEPSIA",
+    "degree": 72,
+    "degree_centrality": 0.1265377855887522,
+    "betweenness_centrality": 0.01741429721771277
+  },
+  {
+    "AE": "HAEMATURIA",
+    "degree": 43,
+    "degree_centrality": 0.07557117750439367,
+    "betweenness_centrality": 0.014701485926089927
+  },
+  {
+    "AE": "TESTICULAR PAIN",
+    "degree": 18,
+    "degree_centrality": 0.03163444639718805,
+    "betweenness_centrality": 0.00046921847785068896
+  },
+  {
+    "AE": "TESTICULAR SWELLING",
+    "degree": 18,
+    "degree_centrality": 0.03163444639718805,
+    "betweenness_centrality": 0.00046921847785068896
+  },
+  {
+    "AE": "URINARY BLADDER HAEMORRHAGE",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ANOREXIA",
+    "degree": 206,
+    "degree_centrality": 0.36203866432337434,
+    "betweenness_centrality": 0.03981504975589105
+  },
+  {
+    "AE": "PARAESTHESIA",
+    "degree": 120,
+    "degree_centrality": 0.21089630931458697,
+    "betweenness_centrality": 0.011740170908700524
+  },
+  {
+    "AE": "DIABETES MELLITUS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPERGLYCAEMIA",
+    "degree": 74,
+    "degree_centrality": 0.13005272407732865,
+    "betweenness_centrality": 9.150632468819841e-05
+  },
+  {
+    "AE": "GROWTH OF EYELASHES",
+    "degree": 14,
+    "degree_centrality": 0.02460456942003515,
+    "betweenness_centrality": 0.0008697857370426932
+  },
+  {
+    "AE": "ANORECTAL DISCOMFORT",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0004007498658846338
+  },
+  {
+    "AE": "PELVIC PAIN",
+    "degree": 33,
+    "degree_centrality": 0.05799648506151142,
+    "betweenness_centrality": 0.0042752033148789675
+  },
+  {
+    "AE": "PROCTALGIA",
+    "degree": 42,
+    "degree_centrality": 0.07381370826010544,
+    "betweenness_centrality": 0.004636172040692225
+  },
+  {
+    "AE": "RESPIRATORY TRACT INFECTION",
+    "degree": 29,
+    "degree_centrality": 0.050966608084358524,
+    "betweenness_centrality": 0.0006008800491409513
+  },
+  {
+    "AE": "MICROCYTOSIS",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0012133121204781986
+  },
+  {
+    "AE": "MUSCULAR WEAKNESS",
+    "degree": 73,
+    "degree_centrality": 0.1282952548330404,
+    "betweenness_centrality": 0.006549941564877848
+  },
+  {
+    "AE": "PYREXIA",
+    "degree": 168,
+    "degree_centrality": 0.29525483304042177,
+    "betweenness_centrality": 0.023123659707181183
+  },
+  {
+    "AE": "WEIGHT DECREASED",
+    "degree": 154,
+    "degree_centrality": 0.27065026362038663,
+    "betweenness_centrality": 0.020323144335266344
+  },
+  {
+    "AE": "NEUROPATHY PERIPHERAL",
+    "degree": 111,
+    "degree_centrality": 0.19507908611599295,
+    "betweenness_centrality": 0.019151194500918844
+  },
+  {
+    "AE": "CONJUNCTIVITIS",
+    "degree": 46,
+    "degree_centrality": 0.08084358523725835,
+    "betweenness_centrality": 0.027702462098410156
+  },
+  {
+    "AE": "BRAIN OEDEMA",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CEREBRAL HAEMORRHAGE",
+    "degree": 14,
+    "degree_centrality": 0.02460456942003515,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GASTRITIS HAEMORRHAGIC",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPOCALCAEMIA",
+    "degree": 83,
+    "degree_centrality": 0.14586994727592267,
+    "betweenness_centrality": 0.006497701858719521
+  },
+  {
+    "AE": "HYPOKALAEMIA",
+    "degree": 169,
+    "degree_centrality": 0.29701230228471,
+    "betweenness_centrality": 0.017411689143321196
+  },
+  {
+    "AE": "HYPOXIA",
+    "degree": 47,
+    "degree_centrality": 0.08260105448154657,
+    "betweenness_centrality": 0.0005326997132177953
+  },
+  {
+    "AE": "NERVOUS SYSTEM DISORDER",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PULMONARY EMBOLISM",
+    "degree": 84,
+    "degree_centrality": 0.14762741652021089,
+    "betweenness_centrality": 3.3631912972447658e-06
+  },
+  {
+    "AE": "STAPHYLOCOCCAL SEPSIS",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "THROMBOPHLEBITIS",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "EAR PAIN",
+    "degree": 34,
+    "degree_centrality": 0.05975395430579965,
+    "betweenness_centrality": 0.0032634917786971878
+  },
+  {
+    "AE": "MUCOSAL INFLAMMATION",
+    "degree": 180,
+    "degree_centrality": 0.3163444639718805,
+    "betweenness_centrality": 0.02188877345995291
+  },
+  {
+    "AE": "TETANUS",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ABDOMINAL PAIN UPPER",
+    "degree": 78,
+    "degree_centrality": 0.13708260105448153,
+    "betweenness_centrality": 0.0036040808022235605
+  },
+  {
+    "AE": "ANXIETY",
+    "degree": 74,
+    "degree_centrality": 0.13005272407732865,
+    "betweenness_centrality": 0.010377489356831623
+  },
+  {
+    "AE": "CHOLANGITIS",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CHOLINERGIC SYNDROME",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DROP ATTACKS",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0013558805107863788
+  },
+  {
+    "AE": "DRY MOUTH",
+    "degree": 66,
+    "degree_centrality": 0.11599297012302284,
+    "betweenness_centrality": 0.006816041271198356
+  },
+  {
+    "AE": "HYDRONEPHROSIS",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPONATRAEMIA",
+    "degree": 50,
+    "degree_centrality": 0.08787346221441124,
+    "betweenness_centrality": 0.012794886647619916
+  },
+  {
+    "AE": "PERFORMANCE STATUS DECREASED",
+    "degree": 43,
+    "degree_centrality": 0.07557117750439367,
+    "betweenness_centrality": 0.00024636457670072364
+  },
+  {
+    "AE": "PROCEDURAL PAIN",
+    "degree": 44,
+    "degree_centrality": 0.0773286467486819,
+    "betweenness_centrality": 0.002594250202502664
+  },
+  {
+    "AE": "PRODUCTIVE COUGH",
+    "degree": 62,
+    "degree_centrality": 0.10896309314586994,
+    "betweenness_centrality": 0.0010744374688676772
+  },
+  {
+    "AE": "TACHYCARDIA",
+    "degree": 60,
+    "degree_centrality": 0.10544815465729349,
+    "betweenness_centrality": 0.005261610545842341
+  },
+  {
+    "AE": "TRICHOMEGALY",
+    "degree": 25,
+    "degree_centrality": 0.04393673110720562,
+    "betweenness_centrality": 0.0045962434937370945
+  },
+  {
+    "AE": "PAIN IN EXTREMITY",
+    "degree": 68,
+    "degree_centrality": 0.1195079086115993,
+    "betweenness_centrality": 0.019722937124994986
+  },
+  {
+    "AE": "GASTROENTERITIS",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HAEMOGLOBIN DECREASED",
+    "degree": 38,
+    "degree_centrality": 0.06678383128295254,
+    "betweenness_centrality": 0.00044513001648101275
+  },
+  {
+    "AE": "OEDEMA PERIPHERAL",
+    "degree": 68,
+    "degree_centrality": 0.1195079086115993,
+    "betweenness_centrality": 0.014514925992622158
+  },
+  {
+    "AE": "HYPERSENSITIVITY",
+    "degree": 35,
+    "degree_centrality": 0.06151142355008787,
+    "betweenness_centrality": 0.000312774580726001
+  },
+  {
+    "AE": "BRONCHITIS",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.0002740687060312662
+  },
+  {
+    "AE": "BILIARY DILATATION",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPERBILIRUBINAEMIA",
+    "degree": 14,
+    "degree_centrality": 0.02460456942003515,
+    "betweenness_centrality": 0.0033474333005064152
+  },
+  {
+    "AE": "ASPARTATE AMINOTRANSFERASE INCREASED",
+    "degree": 20,
+    "degree_centrality": 0.035149384885764495,
+    "betweenness_centrality": 0.00205769443675558
+  },
+  {
+    "AE": "HYPERTHERMIA",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ARRHYTHMIA",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 5.2568903437736814e-05
+  },
+  {
+    "AE": "HYPOTHYROIDISM",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 5.2568903437736814e-05
+  },
+  {
+    "AE": "HEADACHE",
+    "degree": 170,
+    "degree_centrality": 0.29876977152899825,
+    "betweenness_centrality": 0.024479927145140627
+  },
+  {
+    "AE": "LUNG DISORDER",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 4.5543522502311357e-05
+  },
+  {
+    "AE": "ANAL FISSURE",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HEMIPARESIS",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SOMNOLENCE",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.002111999256158142
+  },
+  {
+    "AE": "TREMOR",
+    "degree": 20,
+    "degree_centrality": 0.035149384885764495,
+    "betweenness_centrality": 0.0005054919234416255
+  },
+  {
+    "AE": "RHINITIS",
+    "degree": 29,
+    "degree_centrality": 0.050966608084358524,
+    "betweenness_centrality": 0.0006151777322363973
+  },
+  {
+    "AE": "DEPRESSED MOOD",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HEPATIC STEATOSIS",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CATHETER THROMBOSIS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SKIN TURGOR DECREASED",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.00013130293476927912
+  },
+  {
+    "AE": "BODY TEMPERATURE DECREASED",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CHILLS",
+    "degree": 106,
+    "degree_centrality": 0.18629173989455183,
+    "betweenness_centrality": 0.02485155846328382
+  },
+  {
+    "AE": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DYSURIA",
+    "degree": 48,
+    "degree_centrality": 0.0843585237258348,
+    "betweenness_centrality": 0.0008846731200124915
+  },
+  {
+    "AE": "POLLAKIURIA",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 6.4831117573221605e-06
+  },
+  {
+    "AE": "URINARY TRACT INFECTION",
+    "degree": 99,
+    "degree_centrality": 0.17398945518453426,
+    "betweenness_centrality": 0.017838017399414922
+  },
+  {
+    "AE": "DYSPNOEA EXERTIONAL",
+    "degree": 25,
+    "degree_centrality": 0.04393673110720562,
+    "betweenness_centrality": 0.003843497734606991
+  },
+  {
+    "AE": "ARTHRITIS",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0001337936138302484
+  },
+  {
+    "AE": "BONE PAIN",
+    "degree": 54,
+    "degree_centrality": 0.09490333919156414,
+    "betweenness_centrality": 0.015678399586435854
+  },
+  {
+    "AE": "DECREASED APPETITE",
+    "degree": 60,
+    "degree_centrality": 0.10544815465729349,
+    "betweenness_centrality": 0.011555372880740442
+  },
+  {
+    "AE": "HYPERCHROMASIA",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FISTULA",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ARTHRALGIA",
+    "degree": 75,
+    "degree_centrality": 0.13181019332161686,
+    "betweenness_centrality": 0.012431432664626587
+  },
+  {
+    "AE": "SKIN TOXICITY",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CONFUSIONAL STATE",
+    "degree": 32,
+    "degree_centrality": 0.056239015817223195,
+    "betweenness_centrality": 0.00015817051862121857
+  },
+  {
+    "AE": "PNEUMONITIS",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 3.4035495928117036e-05
+  },
+  {
+    "AE": "HERPES ZOSTER",
+    "degree": 20,
+    "degree_centrality": 0.035149384885764495,
+    "betweenness_centrality": 0.003693911179959763
+  },
+  {
+    "AE": "CACHEXIA",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BRADYCARDIA",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0010407286034539247
+  },
+  {
+    "AE": "SYNCOPE",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SUBCUTANEOUS NODULE",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0001363067443564735
+  },
+  {
+    "AE": "XEROSIS",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0001363067443564735
+  },
+  {
+    "AE": "FREQUENT BOWEL MOVEMENTS",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.004091554945198177
+  },
+  {
+    "AE": "SKIN DISCOLOURATION",
+    "degree": 27,
+    "degree_centrality": 0.04745166959578207,
+    "betweenness_centrality": 0.0007309904845318342
+  },
+  {
+    "AE": "PLATELET COUNT DECREASED",
+    "degree": 57,
+    "degree_centrality": 0.10017574692442882,
+    "betweenness_centrality": 0.010193163301653346
+  },
+  {
+    "AE": "WHITE BLOOD CELL COUNT DECREASED",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.001736950972180335
+  },
+  {
+    "AE": "ORAL VIRAL INFECTION",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0004682710903826314
+  },
+  {
+    "AE": "TRANSIENT ISCHAEMIC ATTACK",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0009848884898391074
+  },
+  {
+    "AE": "SLEEP DISORDER",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "LYMPHOPENIA",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.00010730721906781475
+  },
+  {
+    "AE": "INFLUENZA",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0035149384885764497
+  },
+  {
+    "AE": "OCULAR DISCOMFORT",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.00323528881209693
+  },
+  {
+    "AE": "HICCUPS",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.004503705551614701
+  },
+  {
+    "AE": "INTESTINAL OBSTRUCTION",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BRONCHOSPASM",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "COAGULATION TIME SHORTENED",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 2.3700054796121525e-05
+  },
+  {
+    "AE": "FEBRILE NEUTROPENIA",
+    "degree": 42,
+    "degree_centrality": 0.07381370826010544,
+    "betweenness_centrality": 5.328789766523374e-06
+  },
+  {
+    "AE": "INFLUENZA LIKE ILLNESS",
+    "degree": 48,
+    "degree_centrality": 0.0843585237258348,
+    "betweenness_centrality": 0.004001029018836583
+  },
+  {
+    "AE": "BLOOD MAGNESIUM DECREASED",
+    "degree": 21,
+    "degree_centrality": 0.03690685413005272,
+    "betweenness_centrality": 0.0008778307834286941
+  },
+  {
+    "AE": "HEPATOMEGALY",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 2.9109434973441507e-05
+  },
+  {
+    "AE": "NECK PAIN",
+    "degree": 45,
+    "degree_centrality": 0.07908611599297012,
+    "betweenness_centrality": 4.677570134017075e-05
+  },
+  {
+    "AE": "FURUNCLE",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 3.1077354849665094e-05
+  },
+  {
+    "AE": "ABDOMINAL PAIN LOWER",
+    "degree": 22,
+    "degree_centrality": 0.03866432337434095,
+    "betweenness_centrality": 0.0003314752801126228
+  },
+  {
+    "AE": "BLEPHARITIS",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DISTICHIASIS",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.000600470496423538
+  },
+  {
+    "AE": "RECTAL HAEMORRHAGE",
+    "degree": 50,
+    "degree_centrality": 0.08787346221441124,
+    "betweenness_centrality": 0.006104002942112736
+  },
+  {
+    "AE": "BILIARY COLIC",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CHOLESTASIS",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "EAR INFECTION",
+    "degree": 32,
+    "degree_centrality": 0.056239015817223195,
+    "betweenness_centrality": 0.0019164104780591054
+  },
+  {
+    "AE": "INFLAMMATION",
+    "degree": 40,
+    "degree_centrality": 0.07029876977152899,
+    "betweenness_centrality": 0.005919072488451545
+  },
+  {
+    "AE": "CHAPPED LIPS",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0003627247997637593
+  },
+  {
+    "AE": "MUSCULOSKELETAL CHEST PAIN",
+    "degree": 58,
+    "degree_centrality": 0.10193321616871705,
+    "betweenness_centrality": 0.007006404392499526
+  },
+  {
+    "AE": "HAIR GROWTH ABNORMAL",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.0003677985038648413
+  },
+  {
+    "AE": "NAIL BED INFECTION",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 6.174326326968778e-05
+  },
+  {
+    "AE": "ABDOMINAL DISCOMFORT",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.002857591980950971
+  },
+  {
+    "AE": "MUSCULOSKELETAL DISCOMFORT",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0004464169196496386
+  },
+  {
+    "AE": "RALES",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.001992246727634105
+  },
+  {
+    "AE": "BLOOD GLUCOSE DECREASED",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 5.3125208191473654e-05
+  },
+  {
+    "AE": "CANDIDIASIS",
+    "degree": 30,
+    "degree_centrality": 0.05272407732864674,
+    "betweenness_centrality": 0.003908056820357583
+  },
+  {
+    "AE": "DRY EYE",
+    "degree": 35,
+    "degree_centrality": 0.06151142355008787,
+    "betweenness_centrality": 0.004241455716558135
+  },
+  {
+    "AE": "GINGIVITIS",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 5.3125208191473654e-05
+  },
+  {
+    "AE": "RHINORRHOEA",
+    "degree": 40,
+    "degree_centrality": 0.07029876977152899,
+    "betweenness_centrality": 0.020675624374048865
+  },
+  {
+    "AE": "MUCOSAL ULCERATION",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PALPITATIONS",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPOPHOSPHATAEMIA",
+    "degree": 48,
+    "degree_centrality": 0.0843585237258348,
+    "betweenness_centrality": 1.0829475977128147e-05
+  },
+  {
+    "AE": "CATHETER RELATED INFECTION",
+    "degree": 44,
+    "degree_centrality": 0.0773286467486819,
+    "betweenness_centrality": 0.000589976425705
+  },
+  {
+    "AE": "CHEST DISCOMFORT",
+    "degree": 55,
+    "degree_centrality": 0.09666080843585237,
+    "betweenness_centrality": 0.005559842854550696
+  },
+  {
+    "AE": "CHEST PAIN",
+    "degree": 45,
+    "degree_centrality": 0.07908611599297012,
+    "betweenness_centrality": 0.0009996918619721929
+  },
+  {
+    "AE": "DYSAESTHESIA",
+    "degree": 40,
+    "degree_centrality": 0.07029876977152899,
+    "betweenness_centrality": 0.0029418834369666315
+  },
+  {
+    "AE": "ORAL CANDIDIASIS",
+    "degree": 31,
+    "degree_centrality": 0.05448154657293497,
+    "betweenness_centrality": 3.5238771036686826e-05
+  },
+  {
+    "AE": "PHOTOPHOBIA",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0004825381576086487
+  },
+  {
+    "AE": "PSORIASIS",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0004825381576086487
+  },
+  {
+    "AE": "RESPIRATORY TRACT INFECTION BACTERIAL",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0004825381576086487
+  },
+  {
+    "AE": "UPPER RESPIRATORY TRACT INFECTION",
+    "degree": 68,
+    "degree_centrality": 0.1195079086115993,
+    "betweenness_centrality": 0.010313338667370392
+  },
+  {
+    "AE": "LOCALISED INFECTION",
+    "degree": 37,
+    "degree_centrality": 0.06502636203866433,
+    "betweenness_centrality": 0.0002617729887797362
+  },
+  {
+    "AE": "SALMONELLOSIS",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "JOINT SWELLING",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.005483400843398599
+  },
+  {
+    "AE": "BLOOD ALKALINE PHOSPHATASE INCREASED",
+    "degree": 25,
+    "degree_centrality": 0.04393673110720562,
+    "betweenness_centrality": 0.005250510770582001
+  },
+  {
+    "AE": "SKIN DISORDER",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ABDOMINAL DISTENSION",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.004967535302123696
+  },
+  {
+    "AE": "MUSCLE SPASMS",
+    "degree": 35,
+    "degree_centrality": 0.06151142355008787,
+    "betweenness_centrality": 0.0020466252547506445
+  },
+  {
+    "AE": "LIP PAIN",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 6.091454448777649e-05
+  },
+  {
+    "AE": "ORAL PAIN",
+    "degree": 31,
+    "degree_centrality": 0.05448154657293497,
+    "betweenness_centrality": 0.001862255211802512
+  },
+  {
+    "AE": "HYPOAESTHESIA FACIAL",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CLUMSINESS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0008141606002719205
+  },
+  {
+    "AE": "DIZZINESS",
+    "degree": 121,
+    "degree_centrality": 0.2126537785588752,
+    "betweenness_centrality": 0.029719939139028546
+  },
+  {
+    "AE": "MEMORY IMPAIRMENT",
+    "degree": 18,
+    "degree_centrality": 0.03163444639718805,
+    "betweenness_centrality": 0.0008796294856373864
+  },
+  {
+    "AE": "CATHETER SITE CELLULITIS",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DEHYDRATION",
+    "degree": 127,
+    "degree_centrality": 0.22319859402460457,
+    "betweenness_centrality": 0.0018871175522334645
+  },
+  {
+    "AE": "ERUCTATION",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.0041915267090619
+  },
+  {
+    "AE": "FAECAL VOMITING",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.00029395195305338093
+  },
+  {
+    "AE": "SINUS TACHYCARDIA",
+    "degree": 30,
+    "degree_centrality": 0.05272407732864674,
+    "betweenness_centrality": 0.0060973304697426985
+  },
+  {
+    "AE": "VOLVULUS",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0007478480368556836
+  },
+  {
+    "AE": "PERINEAL PAIN",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 3.0320852545151982e-05
+  },
+  {
+    "AE": "RESPIRATORY TRACT INFECTION VIRAL",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0032950673352761246
+  },
+  {
+    "AE": "VIRAL INFECTION",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 3.0320852545151982e-05
+  },
+  {
+    "AE": "VIRAL UPPER RESPIRATORY TRACT INFECTION",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 3.0320852545151982e-05
+  },
+  {
+    "AE": "APHTHOUS STOMATITIS",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.001965498451150437
+  },
+  {
+    "AE": "DENTAL CARIES",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "TOOTH EXTRACTION",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NAIL DISCOLOURATION",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0020779178935975296
+  },
+  {
+    "AE": "HEARING IMPAIRED",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 8.047432488631528e-06
+  },
+  {
+    "AE": "PAROSMIA",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 8.047432488631528e-06
+  },
+  {
+    "AE": "BLEPHARITIS ALLERGIC",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BODY TEMPERATURE INCREASED",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "RASH PAPULAR",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0056634322041547724
+  },
+  {
+    "AE": "SCAR PAIN",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "EPILEPSY",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DYSMORPHISM",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "LOCALISED OEDEMA",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 2.9443405207656792e-05
+  },
+  {
+    "AE": "MYOCARDIAL INFARCTION",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ALANINE AMINOTRANSFERASE INCREASED",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0013916474469751383
+  },
+  {
+    "AE": "BLOOD CALCIUM DECREASED",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 7.069121110939057e-05
+  },
+  {
+    "AE": "PRURITUS ALLERGIC",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ONYCHOCLASIS",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPERCHLORAEMIA",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 9.730517244424715e-05
+  },
+  {
+    "AE": "DEATH",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "THROAT IRRITATION",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.00010724356607349068
+  },
+  {
+    "AE": "GROIN ABSCESS",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SKIN ATROPHY",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0002791322547844987
+  },
+  {
+    "AE": "BLOOD CREATINE INCREASED",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 4.5088437282550995e-05
+  },
+  {
+    "AE": "VENOUS THROMBOSIS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 2.7065876468089397e-06
+  },
+  {
+    "AE": "BLOOD ALKALINE PHOSPHATASE",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 3.199283039130559e-05
+  },
+  {
+    "AE": "HYPERCALCAEMIA",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.000485890174629576
+  },
+  {
+    "AE": "BLOOD CREATININE INCREASED",
+    "degree": 18,
+    "degree_centrality": 0.03163444639718805,
+    "betweenness_centrality": 5.933741304848335e-05
+  },
+  {
+    "AE": "BLOOD LACTATE DEHYDROGENASE INCREASED",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HEMIPLEGIA",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "IODINE ALLERGY",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.00014819681859707604
+  },
+  {
+    "AE": "COMA",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PAIN OF SKIN",
+    "degree": 36,
+    "degree_centrality": 0.0632688927943761,
+    "betweenness_centrality": 0.0034869401524269396
+  },
+  {
+    "AE": "ULCER",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "UVEITIS",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 9.724198911226923e-05
+  },
+  {
+    "AE": "HYPOALBUMINAEMIA",
+    "degree": 45,
+    "degree_centrality": 0.07908611599297012,
+    "betweenness_centrality": 2.0627573289767897e-06
+  },
+  {
+    "AE": "HEPATIC FUNCTION ABNORMAL",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PARAPARESIS",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CARDIO-RESPIRATORY ARREST",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ATRIAL FIBRILLATION",
+    "degree": 48,
+    "degree_centrality": 0.0843585237258348,
+    "betweenness_centrality": 0.0014942425992809823
+  },
+  {
+    "AE": "CARDIAC FAILURE CONGESTIVE",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "EYE INFECTION STAPHYLOCOCCAL",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FACIAL BONES FRACTURE",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PERICARDIAL EFFUSION",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GENITAL CANDIDIASIS",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ANGINA PECTORIS",
+    "degree": 19,
+    "degree_centrality": 0.03339191564147627,
+    "betweenness_centrality": 0.0023875443114072933
+  },
+  {
+    "AE": "VISION BLURRED",
+    "degree": 49,
+    "degree_centrality": 0.08611599297012301,
+    "betweenness_centrality": 0.004037857320713242
+  },
+  {
+    "AE": "ORTHOSTATIC HYPOTENSION",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 6.659759376410778e-06
+  },
+  {
+    "AE": "EPIDIDYMITIS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NEURALGIA",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PAROTITIS",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PHARYNGOLARYNGEAL PAIN",
+    "degree": 74,
+    "degree_centrality": 0.13005272407732865,
+    "betweenness_centrality": 0.004217078779636478
+  },
+  {
+    "AE": "COLECTOMY",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 3.4035495928117036e-05
+  },
+  {
+    "AE": "DISORIENTATION",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FALL",
+    "degree": 33,
+    "degree_centrality": 0.05799648506151142,
+    "betweenness_centrality": 0.0017206862117565562
+  },
+  {
+    "AE": "NEPHROLITHIASIS",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 3.1967449477783885e-05
+  },
+  {
+    "AE": "CATHETER RELATED COMPLICATION",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 9.282407980395554e-06
+  },
+  {
+    "AE": "CATHETER SITE PAIN",
+    "degree": 30,
+    "degree_centrality": 0.05272407732864674,
+    "betweenness_centrality": 0.004365766181844605
+  },
+  {
+    "AE": "EYELASH THICKENING",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 7.735339983662962e-07
+  },
+  {
+    "AE": "NEUROPATHY",
+    "degree": 101,
+    "degree_centrality": 0.17750439367311072,
+    "betweenness_centrality": 0.01028323305167089
+  },
+  {
+    "AE": "ORAL SOFT TISSUE DISORDER",
+    "degree": 18,
+    "degree_centrality": 0.03163444639718805,
+    "betweenness_centrality": 0.0005983813445012979
+  },
+  {
+    "AE": "HYPOTENSION",
+    "degree": 72,
+    "degree_centrality": 0.1265377855887522,
+    "betweenness_centrality": 0.006227908522822207
+  },
+  {
+    "AE": "NASAL SEPTUM DEVIATION",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.002372621157301559
+  },
+  {
+    "AE": "BURNING SENSATION",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DEEP VEIN THROMBOSIS",
+    "degree": 57,
+    "degree_centrality": 0.10017574692442882,
+    "betweenness_centrality": 0.0003408599184316566
+  },
+  {
+    "AE": "DISCOMFORT",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 8.972994381049037e-06
+  },
+  {
+    "AE": "INTERNATIONAL NORMALISED RATIO INCREASED",
+    "degree": 30,
+    "degree_centrality": 0.05272407732864674,
+    "betweenness_centrality": 0.00028404654956546175
+  },
+  {
+    "AE": "MOUTH ULCERATION",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GAIT DISTURBANCE",
+    "degree": 21,
+    "degree_centrality": 0.03690685413005272,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "VERTIGO",
+    "degree": 38,
+    "degree_centrality": 0.06678383128295254,
+    "betweenness_centrality": 0.002070344453256451
+  },
+  {
+    "AE": "CHOLELITHIASIS",
+    "degree": 20,
+    "degree_centrality": 0.035149384885764495,
+    "betweenness_centrality": 0.0003855948431190903
+  },
+  {
+    "AE": "HAEMATOCHEZIA",
+    "degree": 61,
+    "degree_centrality": 0.10720562390158171,
+    "betweenness_centrality": 0.0006357496016584115
+  },
+  {
+    "AE": "PNEUMONIA",
+    "degree": 32,
+    "degree_centrality": 0.056239015817223195,
+    "betweenness_centrality": 0.0035529214206285434
+  },
+  {
+    "AE": "STREPTOCOCCAL BACTERAEMIA",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GASTROOESOPHAGEAL REFLUX DISEASE",
+    "degree": 36,
+    "degree_centrality": 0.0632688927943761,
+    "betweenness_centrality": 0.0009670331333502245
+  },
+  {
+    "AE": "HYPOAESTHESIA",
+    "degree": 76,
+    "degree_centrality": 0.13356766256590508,
+    "betweenness_centrality": 0.005412423640862234
+  },
+  {
+    "AE": "COW'S MILK INTOLERANCE",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.00046365238696002376
+  },
+  {
+    "AE": "GRAND MAL CONVULSION",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "JOINT STIFFNESS",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 4.03146961539496e-05
+  },
+  {
+    "AE": "NASAL DISCOMFORT",
+    "degree": 25,
+    "degree_centrality": 0.04393673110720562,
+    "betweenness_centrality": 0.007076571390461052
+  },
+  {
+    "AE": "GASTROENTERITIS VIRAL",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "RHINITIS ALLERGIC",
+    "degree": 29,
+    "degree_centrality": 0.050966608084358524,
+    "betweenness_centrality": 0.003915271577562473
+  },
+  {
+    "AE": "COLON CANCER",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "INGUINAL HERNIA",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.00019622176711490383
+  },
+  {
+    "AE": "TEMPERATURE INTOLERANCE",
+    "degree": 60,
+    "degree_centrality": 0.10544815465729349,
+    "betweenness_centrality": 0.01169899085880379
+  },
+  {
+    "AE": "BLOOD PRESSURE ORTHOSTATIC ABNORMAL",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CONJUNCTIVAL HAEMORRHAGE",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.007062959760118105
+  },
+  {
+    "AE": "ABDOMINAL TENDERNESS",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ABNORMAL FAECES",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.00019545607106163622
+  },
+  {
+    "AE": "MYALGIA",
+    "degree": 76,
+    "degree_centrality": 0.13356766256590508,
+    "betweenness_centrality": 0.006680001000396191
+  },
+  {
+    "AE": "SHOULDER PAIN",
+    "degree": 56,
+    "degree_centrality": 0.0984182776801406,
+    "betweenness_centrality": 0.00323090324648481
+  },
+  {
+    "AE": "STOMACH DISCOMFORT",
+    "degree": 25,
+    "degree_centrality": 0.04393673110720562,
+    "betweenness_centrality": 0.002186836381310634
+  },
+  {
+    "AE": "FOOD INTOLERANCE",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 2.762375856388084e-05
+  },
+  {
+    "AE": "HYPERTENSION",
+    "degree": 111,
+    "degree_centrality": 0.19507908611599295,
+    "betweenness_centrality": 0.013234083059563247
+  },
+  {
+    "AE": "MALAISE",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0016622167904088948
+  },
+  {
+    "AE": "SINUSITIS",
+    "degree": 63,
+    "degree_centrality": 0.11072056239015816,
+    "betweenness_centrality": 0.001879716332984741
+  },
+  {
+    "AE": "PHARYNGITIS",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.002427045342013165
+  },
+  {
+    "AE": "HAEMATOMA",
+    "degree": 14,
+    "degree_centrality": 0.02460456942003515,
+    "betweenness_centrality": 0.005874830981165841
+  },
+  {
+    "AE": "VAGINAL HAEMORRHAGE",
+    "degree": 29,
+    "degree_centrality": 0.050966608084358524,
+    "betweenness_centrality": 0.004012850126335251
+  },
+  {
+    "AE": "PROTEINURIA",
+    "degree": 72,
+    "degree_centrality": 0.1265377855887522,
+    "betweenness_centrality": 0.008251899237346604
+  },
+  {
+    "AE": "PLEURAL EFFUSION",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "RENAL FAILURE",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.000648370152720508
+  },
+  {
+    "AE": "AGITATION",
+    "degree": 14,
+    "degree_centrality": 0.02460456942003515,
+    "betweenness_centrality": 4.3317903908512586e-05
+  },
+  {
+    "AE": "CYST",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CATHETER SITE INFLAMMATION",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 4.211462879994279e-06
+  },
+  {
+    "AE": "SINUS CONGESTION",
+    "degree": 14,
+    "degree_centrality": 0.02460456942003515,
+    "betweenness_centrality": 0.0015525947373991227
+  },
+  {
+    "AE": "WHEEZING",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SNEEZING",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0006357428335585364
+  },
+  {
+    "AE": "GINGIVAL BLEEDING",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 8.457305048804839e-06
+  },
+  {
+    "AE": "ADVERSE DRUG REACTION",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 3.772923403286997e-06
+  },
+  {
+    "AE": "MUSCULOSKELETAL STIFFNESS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NAIL INFECTION",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.0012824469077412576
+  },
+  {
+    "AE": "NEUROTOXICITY",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 8.88463494191941e-06
+  },
+  {
+    "AE": "PHARYNGEAL INFLAMMATION",
+    "degree": 18,
+    "degree_centrality": 0.03163444639718805,
+    "betweenness_centrality": 2.2608931825793933e-05
+  },
+  {
+    "AE": "DRUG HYPERSENSITIVITY",
+    "degree": 29,
+    "degree_centrality": 0.050966608084358524,
+    "betweenness_centrality": 5.411173495551562e-05
+  },
+  {
+    "AE": "HEPATECTOMY",
+    "degree": 30,
+    "degree_centrality": 0.05272407732864674,
+    "betweenness_centrality": 0.0018593935021461426
+  },
+  {
+    "AE": "OPEN WOUND",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.00020671744322082203
+  },
+  {
+    "AE": "CHEILITIS",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.000730477424115838
+  },
+  {
+    "AE": "UMBILICAL HAEMORRHAGE",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "IMPAIRED HEALING",
+    "degree": 19,
+    "degree_centrality": 0.03339191564147627,
+    "betweenness_centrality": 0.00014972671412187243
+  },
+  {
+    "AE": "WOUND DEHISCENCE",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 3.094135993465185e-05
+  },
+  {
+    "AE": "OSTEONECROSIS",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "WEIGHT FLUCTUATION",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CHEILOSIS",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "AMENORRHOEA",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HOT FLUSH",
+    "degree": 34,
+    "degree_centrality": 0.05975395430579965,
+    "betweenness_centrality": 0.006420083867514302
+  },
+  {
+    "AE": "OSTEITIS",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.00041381288721190074
+  },
+  {
+    "AE": "VAGINAL INFECTION",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.00041381288721190074
+  },
+  {
+    "AE": "GINGIVAL PAIN",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.001050663395572022
+  },
+  {
+    "AE": "HAEMATOCRIT DECREASED",
+    "degree": 20,
+    "degree_centrality": 0.035149384885764495,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SKIN REACTION",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0013010744385259267
+  },
+  {
+    "AE": "ACUTE RESPIRATORY DISTRESS SYNDROME",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLOOD BICARBONATE DECREASED",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.001500397727456987
+  },
+  {
+    "AE": "METABOLIC ENCEPHALOPATHY",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "OESOPHAGITIS",
+    "degree": 31,
+    "degree_centrality": 0.05448154657293497,
+    "betweenness_centrality": 0.004259604178950881
+  },
+  {
+    "AE": "PNEUMONIA BACTERIAL",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "RENAL FAILURE ACUTE",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SEPTIC SHOCK",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FEELING COLD",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0013586966251216968
+  },
+  {
+    "AE": "EPIGASTRIC DISCOMFORT",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0006369610563092414
+  },
+  {
+    "AE": "BURSITIS",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ENTEROVESICAL FISTULA",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NOCTURIA",
+    "degree": 18,
+    "degree_centrality": 0.03163444639718805,
+    "betweenness_centrality": 0.0011463001652472935
+  },
+  {
+    "AE": "MUCOSAL DRYNESS",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.000454179397311659
+  },
+  {
+    "AE": "AMNESIA",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CLOSTRIDIAL INFECTION",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.00018650839911838078
+  },
+  {
+    "AE": "COORDINATION ABNORMAL",
+    "degree": 45,
+    "degree_centrality": 0.07908611599297012,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FUNGAL SKIN INFECTION",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ORAL FUNGAL INFECTION",
+    "degree": 16,
+    "degree_centrality": 0.028119507908611598,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "RECTAL FISSURE",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CLUBBING",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.001074370867179967
+  },
+  {
+    "AE": "FLANK PAIN",
+    "degree": 36,
+    "degree_centrality": 0.0632688927943761,
+    "betweenness_centrality": 0.002558369236709976
+  },
+  {
+    "AE": "MENTAL IMPAIRMENT",
+    "degree": 23,
+    "degree_centrality": 0.040421792618629174,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "VISUAL DISTURBANCE",
+    "degree": 45,
+    "degree_centrality": 0.07908611599297012,
+    "betweenness_centrality": 0.003935467384084338
+  },
+  {
+    "AE": "AREFLEXIA",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 8.616633844976833e-05
+  },
+  {
+    "AE": "SEXUAL DYSFUNCTION",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 8.616633844976833e-05
+  },
+  {
+    "AE": "PARANASAL SINUS HYPERSECRETION",
+    "degree": 46,
+    "degree_centrality": 0.08084358523725835,
+    "betweenness_centrality": 0.015664651329042167
+  },
+  {
+    "AE": "PERIPHERAL COLDNESS",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "EYE PRURITUS",
+    "degree": 20,
+    "degree_centrality": 0.035149384885764495,
+    "betweenness_centrality": 0.002155262723850972
+  },
+  {
+    "AE": "HIGH FREQUENCY ABLATION",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 2.3722379009638596e-05
+  },
+  {
+    "AE": "CELLULITIS GANGRENOUS",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CELLULITIS STAPHYLOCOCCAL",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NECROTISING FASCIITIS",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FEMALE GENITAL TRACT FISTULA",
+    "degree": 14,
+    "degree_centrality": 0.02460456942003515,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DYSPAREUNIA",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0008957241710555518
+  },
+  {
+    "AE": "HYPERAESTHESIA",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.00025899546369291586
+  },
+  {
+    "AE": "HYPOACUSIS",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 9.972631859985219e-05
+  },
+  {
+    "AE": "HYPOTRICHOSIS",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 9.972631859985219e-05
+  },
+  {
+    "AE": "EYE DISCHARGE",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NEUTROPHIL COUNT DECREASED",
+    "degree": 41,
+    "degree_centrality": 0.07205623901581722,
+    "betweenness_centrality": 0.0005678141893164957
+  },
+  {
+    "AE": "SINUS HEADACHE",
+    "degree": 24,
+    "degree_centrality": 0.0421792618629174,
+    "betweenness_centrality": 0.006778150790148241
+  },
+  {
+    "AE": "DIFFICULTY IN WALKING",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DIPLOPIA",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLOOD PHOSPHORUS DECREASED",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLOOD BILIRUBIN INCREASED",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLOOD URIC ACID INCREASED",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GROIN PAIN",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PETECHIAE",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BACTERAEMIA",
+    "degree": 33,
+    "degree_centrality": 0.05799648506151142,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ENTERITIS",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "MENSTRUATION IRREGULAR",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PLEURITIC PAIN",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLADDER PAIN",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0008875467318631735
+  },
+  {
+    "AE": "TOOTHACHE",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 3.869926959716601e-05
+  },
+  {
+    "AE": "GASTRITIS",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "COLON CANCER METASTATIC",
+    "degree": 22,
+    "degree_centrality": 0.03866432337434095,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NEUTROPHIL COUNT ABNORMAL",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0005745082431859328
+  },
+  {
+    "AE": "WHITE BLOOD CELL DISORDER",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0005745082431859328
+  },
+  {
+    "AE": "DYSPHAGIA",
+    "degree": 47,
+    "degree_centrality": 0.08260105448154657,
+    "betweenness_centrality": 8.097509485382124e-05
+  },
+  {
+    "AE": "PIGMENTATION DISORDER",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "LIP BLISTER",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.00017079860795051773
+  },
+  {
+    "AE": "ARTHROPOD BITE",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0005132654442664003
+  },
+  {
+    "AE": "AORTIC VALVE SCLEROSIS",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 7.676937976128105e-05
+  },
+  {
+    "AE": "CARDIOMYOPATHY",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 7.676937976128105e-05
+  },
+  {
+    "AE": "EXTRAPYRAMIDAL DISORDER",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 7.676937976128105e-05
+  },
+  {
+    "AE": "HYPOKINESIA",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 7.676937976128105e-05
+  },
+  {
+    "AE": "LIP ULCERATION",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HEAT RASH",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "MENORRHAGIA",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0012339307137817746
+  },
+  {
+    "AE": "BRONCHITIS CHRONIC",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PYURIA",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 1.582429550943623e-05
+  },
+  {
+    "AE": "WOUND COMPLICATION",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.004385937693497813
+  },
+  {
+    "AE": "ASCITES",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 1.1251403612600673e-06
+  },
+  {
+    "AE": "RHINITIS SEASONAL",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CONJUNCTIVITIS INFECTIVE",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "EMBOLISM",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BENIGN PROSTATIC HYPERPLASIA",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0012563923727705348
+  },
+  {
+    "AE": "HAEMORRHAGE",
+    "degree": 22,
+    "degree_centrality": 0.03866432337434095,
+    "betweenness_centrality": 0.0037075574697371634
+  },
+  {
+    "AE": "CANCER PAIN",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0005606186373597908
+  },
+  {
+    "AE": "CATHETER SITE INFECTION",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0001537849478139303
+  },
+  {
+    "AE": "BUTTOCK PAIN",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HEPATIC ENZYME INCREASED",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ODYNOPHAGIA",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0012883695533321775
+  },
+  {
+    "AE": "RASH FOLLICULAR",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "THIRST",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0012883695533321775
+  },
+  {
+    "AE": "GLOSSODYNIA",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.00042091950067216346
+  },
+  {
+    "AE": "PULMONARY CONGESTION",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "POST PROCEDURAL HAEMATOMA",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PANIC ATTACK",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 8.229248648458337e-06
+  },
+  {
+    "AE": "SKIN LACERATION",
+    "degree": 38,
+    "degree_centrality": 0.06678383128295254,
+    "betweenness_centrality": 0.0015449678128890345
+  },
+  {
+    "AE": "DYSPHASIA",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0024657751983489986
+  },
+  {
+    "AE": "THROMBOSIS",
+    "degree": 32,
+    "degree_centrality": 0.056239015817223195,
+    "betweenness_centrality": 1.6502058631814317e-05
+  },
+  {
+    "AE": "SKIN IRRITATION",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLOOD UREA DECREASED",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0016920983060696266
+  },
+  {
+    "AE": "GASTROINTESTINAL PERFORATION",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PNEUMATOSIS",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NIGHTMARE",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "OMPHALITIS",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FUNGAL SEPSIS",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "TINEA CAPITIS",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "URINARY TRACT INFECTION FUNGAL",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ELECTROLYTE IMBALANCE",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "MALNUTRITION",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BALANCE DISORDER",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NASAL DRYNESS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "NECK INJURY",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DUODENITIS",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 8.952548417490825e-05
+  },
+  {
+    "AE": "OESOPHAGEAL CANDIDIASIS",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 8.952548417490825e-05
+  },
+  {
+    "AE": "RESPIRATORY DISTRESS",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "RESTLESSNESS",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PROCTITIS",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.000420925852012117
+  },
+  {
+    "AE": "ANAPHYLACTIC REACTION",
+    "degree": 8,
+    "degree_centrality": 0.014059753954305799,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "INTERVERTEBRAL DISC PROTRUSION",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "RADICULOPATHY",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "LISTLESS",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0009102080381799347
+  },
+  {
+    "AE": "PAIN IN JAW",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.0011890923971337548
+  },
+  {
+    "AE": "ANIMAL BITE",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 5.441259154222345e-05
+  },
+  {
+    "AE": "ISCHAEMIA",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0003834770787791048
+  },
+  {
+    "AE": "ACQUIRED DIAPHRAGMATIC EVENTRATION",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 3.197273859914024e-06
+  },
+  {
+    "AE": "GOITRE",
+    "degree": 10,
+    "degree_centrality": 0.017574692442882248,
+    "betweenness_centrality": 3.197273859914024e-06
+  },
+  {
+    "AE": "LYMPHADENOPATHY",
+    "degree": 25,
+    "degree_centrality": 0.04393673110720562,
+    "betweenness_centrality": 0.0006150293686179372
+  },
+  {
+    "AE": "ORAL DISCOMFORT",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "OSTEOARTHRITIS",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SINUS POLYP",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.0010117917534800949
+  },
+  {
+    "AE": "GASTROINTESTINAL HAEMORRHAGE",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "MELAENA",
+    "degree": 15,
+    "degree_centrality": 0.02636203866432337,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DYSPNOEA EXACERBATED",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "POLYDIPSIA",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0013979805759925066
+  },
+  {
+    "AE": "ABDOMINAL ABSCESS",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ANAL FISTULA",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "OCULAR HYPERAEMIA",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0006385246300297906
+  },
+  {
+    "AE": "RECTAL DISCHARGE",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0006385246300297906
+  },
+  {
+    "AE": "PERIPHERAL EMBOLISM",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "WEIGHT INCREASED",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 2.9884196803551236e-05
+  },
+  {
+    "AE": "BLISTER",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLOOD CREATININE",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PHOTOSENSITIVITY REACTION",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SUNBURN",
+    "degree": 2,
+    "degree_centrality": 0.0035149384885764497,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "CATHETER SITE RELATED REACTION",
+    "degree": 1,
+    "degree_centrality": 0.0017574692442882249,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SEPSIS",
+    "degree": 13,
+    "degree_centrality": 0.022847100175746923,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GASTRIC ULCER",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GASTROINTESTINAL FISTULA",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPOGLYCAEMIA",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "TINNITUS",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 7.929422711338094e-06
+  },
+  {
+    "AE": "SWELLING",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.00045748539017110857
+  },
+  {
+    "AE": "VENA CAVA THROMBOSIS",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GASTROINTESTINAL INFLAMMATION",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.00021125482446598438
+  },
+  {
+    "AE": "INFUSION RELATED REACTION",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 4.5154740196696676e-05
+  },
+  {
+    "AE": "PERIPHERAL MOTOR NEUROPATHY",
+    "degree": 26,
+    "degree_centrality": 0.045694200351493845,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "IRRITABILITY",
+    "degree": 22,
+    "degree_centrality": 0.03866432337434095,
+    "betweenness_centrality": 0.0015640243902571343
+  },
+  {
+    "AE": "NON-CARDIAC CHEST PAIN",
+    "degree": 22,
+    "degree_centrality": 0.03866432337434095,
+    "betweenness_centrality": 0.0015640243902571343
+  },
+  {
+    "AE": "PARAESTHESIA ORAL",
+    "degree": 45,
+    "degree_centrality": 0.07908611599297012,
+    "betweenness_centrality": 0.004280755879298094
+  },
+  {
+    "AE": "BLINDNESS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "TOOTH LOSS",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0003984313244417911
+  },
+  {
+    "AE": "NODULE",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 7.557870811498326e-05
+  },
+  {
+    "AE": "THROAT TIGHTNESS",
+    "degree": 17,
+    "degree_centrality": 0.029876977152899824,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "MUSCLE TIGHTNESS",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BREAST PAIN",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "VULVOVAGINAL DISCOMFORT",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPOVOLAEMIA",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "SMALL INTESTINAL OBSTRUCTION",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ANAL INFLAMMATION",
+    "degree": 9,
+    "degree_centrality": 0.015817223198594025,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ENDOCRINE DISORDER",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "INCISIONAL HERNIA",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ANAL DISCOMFORT",
+    "degree": 7,
+    "degree_centrality": 0.012302284710017574,
+    "betweenness_centrality": 0.0006951269798151836
+  },
+  {
+    "AE": "HERPES VIRUS INFECTION",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HAEMORRHOIDAL HAEMORRHAGE",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0001549278093870782
+  },
+  {
+    "AE": "PAINFUL DEFAECATION",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0001549278093870782
+  },
+  {
+    "AE": "EYE IRRITATION",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.0007147009105638586
+  },
+  {
+    "AE": "EYE PAIN",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HYPERMAGNESAEMIA",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PURULENT DISCHARGE",
+    "degree": 28,
+    "degree_centrality": 0.0492091388400703,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "DELIRIUM",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "UROSEPSIS",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "FOOD POISONING",
+    "degree": 3,
+    "degree_centrality": 0.005272407732864675,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "PITTING OEDEMA",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ATRIAL TACHYCARDIA",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "HIP FRACTURE",
+    "degree": 6,
+    "degree_centrality": 0.01054481546572935,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "GASTROINTESTINAL OBSTRUCTION",
+    "degree": 5,
+    "degree_centrality": 0.008787346221441124,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "ABDOMINAL HERNIA",
+    "degree": 12,
+    "degree_centrality": 0.0210896309314587,
+    "betweenness_centrality": 0.0004334858089842849
+  },
+  {
+    "AE": "LARYNGITIS",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 5.0055016684759986e-05
+  },
+  {
+    "AE": "SUPRAVENTRICULAR TACHYCARDIA",
+    "degree": 4,
+    "degree_centrality": 0.007029876977152899,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLOOD URINE",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 0.0
+  },
+  {
+    "AE": "BLOOD URINE PRESENT",
+    "degree": 11,
+    "degree_centrality": 0.019332161687170474,
+    "betweenness_centrality": 1.3833224664557125e-05
+  }
+]
