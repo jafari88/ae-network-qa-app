@@ -374,7 +374,7 @@ st.sidebar.header("Network Files")
 # --- Directory input in sidebar ---
 st.sidebar.header("Network Files")
 
-default_network_dir = r"C:\Users\jafar\grok_updated_network14jul_pe05_001Pdecay_flt_fe20_w14\network_snapshots"
+default_network_dir = r"C:\Users\jafar\network_app_demo\network_snapshots"
 network_dir = st.sidebar.text_input(
     "Enter directory containing node/edge JSON files:",
     value=default_network_dir,
